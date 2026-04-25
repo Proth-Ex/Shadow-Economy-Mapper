@@ -13,7 +13,7 @@ from typing import List, Optional
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
 
-from data_generator import generate_grid
+from data_loader import load_real_data
 from ml_pipeline import run_pipeline, ARCHETYPE_COLORS
 
 # Global state
@@ -33,8 +33,8 @@ async def lifespan(app):
         with open(data_path, "r") as f:
             PROCESSED_CELLS = json.load(f)
     else:
-        print("No pre-processed data found. Generating and running pipeline...")
-        raw_cells = generate_grid()
+        print("No pre-processed data found. Loading real data and running pipeline...")
+        raw_cells = load_real_data()
         PROCESSED_CELLS = run_pipeline(raw_cells)
         # Save for next time
         os.makedirs(os.path.dirname(data_path), exist_ok=True)

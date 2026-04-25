@@ -288,7 +288,7 @@ def save_processed(cells: List[Dict], output_path: str = None):
 
 
 if __name__ == "__main__":
-    from data_generator import generate_grid
-    raw_cells = generate_grid()
+    from data_loader import load_real_data
+    raw_cells = load_real_data()
     processed = run_pipeline(raw_cells)
     save_processed(processed)
