@@ -9,7 +9,7 @@ import Legend from './components/Legend'
 import DataSourceBadge from './components/DataSourceBadge'
 import StatsPage from './components/StatsPage'
 
-const API_BASE = 'http://localhost:8000'
+const API_BASE = import.meta.env.VITE_API_URL;
 
 /* ── Navigation Bar ── */
 function NavBar() {
