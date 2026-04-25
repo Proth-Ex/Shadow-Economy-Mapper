@@ -1,0 +1,4097 @@
+[
+  {
+    "zone_id": "ZONE_0_0",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.7025,
+    "light_intensity": 0.612,
+    "light_score": 0.046
+  },
+  {
+    "zone_id": "ZONE_0_1",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.7475,
+    "light_intensity": 0.541,
+    "light_score": 0.041
+  },
+  {
+    "zone_id": "ZONE_0_2",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.7925,
+    "light_intensity": 0.456,
+    "light_score": 0.034
+  },
+  {
+    "zone_id": "ZONE_0_3",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.8375,
+    "light_intensity": 0.425,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_0_4",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.319,
+    "light_score": 0.024
+  },
+  {
+    "zone_id": "ZONE_0_5",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 0.312,
+    "light_score": 0.023
+  },
+  {
+    "zone_id": "ZONE_0_6",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 0.306,
+    "light_score": 0.023
+  },
+  {
+    "zone_id": "ZONE_0_7",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.308,
+    "light_score": 0.023
+  },
+  {
+    "zone_id": "ZONE_0_8",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.444,
+    "light_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_0_9",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.729,
+    "light_score": 0.055
+  },
+  {
+    "zone_id": "ZONE_0_10",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.598,
+    "light_score": 0.045
+  },
+  {
+    "zone_id": "ZONE_0_11",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.577,
+    "light_score": 0.043
+  },
+  {
+    "zone_id": "ZONE_0_12",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.535,
+    "light_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_0_13",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.49,
+    "light_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_0_14",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 1.159,
+    "light_score": 0.087
+  },
+  {
+    "zone_id": "ZONE_1_0",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.7025,
+    "light_intensity": 0.601,
+    "light_score": 0.045
+  },
+  {
+    "zone_id": "ZONE_1_1",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.7475,
+    "light_intensity": 0.523,
+    "light_score": 0.039
+  },
+  {
+    "zone_id": "ZONE_1_2",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.7925,
+    "light_intensity": 0.422,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_1_3",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.8375,
+    "light_intensity": 0.34,
+    "light_score": 0.026
+  },
+  {
+    "zone_id": "ZONE_1_4",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.323,
+    "light_score": 0.024
+  },
+  {
+    "zone_id": "ZONE_1_5",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 0.304,
+    "light_score": 0.023
+  },
+  {
+    "zone_id": "ZONE_1_6",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 0.286,
+    "light_score": 0.022
+  },
+  {
+    "zone_id": "ZONE_1_7",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.341,
+    "light_score": 0.026
+  },
+  {
+    "zone_id": "ZONE_1_8",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.011,
+    "light_score": 0.076
+  },
+  {
+    "zone_id": "ZONE_1_9",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.61,
+    "light_score": 0.046
+  },
+  {
+    "zone_id": "ZONE_1_10",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.378,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_1_11",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.375,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_1_12",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.354,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_1_13",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.36,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_1_14",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.362,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_2_0",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.7025,
+    "light_intensity": 0.569,
+    "light_score": 0.043
+  },
+  {
+    "zone_id": "ZONE_2_1",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.7475,
+    "light_intensity": 0.54,
+    "light_score": 0.041
+  },
+  {
+    "zone_id": "ZONE_2_2",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.7925,
+    "light_intensity": 0.431,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_2_3",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.8375,
+    "light_intensity": 0.358,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_2_4",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.325,
+    "light_score": 0.024
+  },
+  {
+    "zone_id": "ZONE_2_5",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 0.31,
+    "light_score": 0.023
+  },
+  {
+    "zone_id": "ZONE_2_6",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 0.321,
+    "light_score": 0.024
+  },
+  {
+    "zone_id": "ZONE_2_7",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 1.032,
+    "light_score": 0.078
+  },
+  {
+    "zone_id": "ZONE_2_8",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.939,
+    "light_score": 0.146
+  },
+  {
+    "zone_id": "ZONE_2_9",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.697,
+    "light_score": 0.052
+  },
+  {
+    "zone_id": "ZONE_2_10",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.487,
+    "light_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_2_11",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.447,
+    "light_score": 0.034
+  },
+  {
+    "zone_id": "ZONE_2_12",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.389,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_2_13",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.347,
+    "light_score": 0.026
+  },
+  {
+    "zone_id": "ZONE_2_14",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.379,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_3_0",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.7025,
+    "light_intensity": 0.581,
+    "light_score": 0.044
+  },
+  {
+    "zone_id": "ZONE_3_1",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.7475,
+    "light_intensity": 0.487,
+    "light_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_3_2",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.7925,
+    "light_intensity": 0.427,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_3_3",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.8375,
+    "light_intensity": 0.368,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_3_4",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.318,
+    "light_score": 0.024
+  },
+  {
+    "zone_id": "ZONE_3_5",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 0.302,
+    "light_score": 0.023
+  },
+  {
+    "zone_id": "ZONE_3_6",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 0.589,
+    "light_score": 0.044
+  },
+  {
+    "zone_id": "ZONE_3_7",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.883,
+    "light_score": 0.066
+  },
+  {
+    "zone_id": "ZONE_3_8",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.543,
+    "light_score": 0.041
+  },
+  {
+    "zone_id": "ZONE_3_9",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.469,
+    "light_score": 0.035
+  },
+  {
+    "zone_id": "ZONE_3_10",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.478,
+    "light_score": 0.036
+  },
+  {
+    "zone_id": "ZONE_3_11",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.417,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_3_12",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.403,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_3_13",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.378,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_3_14",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.38,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_4_0",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.7025,
+    "light_intensity": 0.563,
+    "light_score": 0.042
+  },
+  {
+    "zone_id": "ZONE_4_1",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.7475,
+    "light_intensity": 0.502,
+    "light_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_4_2",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.7925,
+    "light_intensity": 0.473,
+    "light_score": 0.036
+  },
+  {
+    "zone_id": "ZONE_4_3",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.8375,
+    "light_intensity": 0.361,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_4_4",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.32,
+    "light_score": 0.024
+  },
+  {
+    "zone_id": "ZONE_4_5",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 0.465,
+    "light_score": 0.035
+  },
+  {
+    "zone_id": "ZONE_4_6",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 0.563,
+    "light_score": 0.042
+  },
+  {
+    "zone_id": "ZONE_4_7",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.487,
+    "light_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_4_8",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.454,
+    "light_score": 0.034
+  },
+  {
+    "zone_id": "ZONE_4_9",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.37,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_4_10",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.413,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_4_11",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.494,
+    "light_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_4_12",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.437,
+    "light_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_4_13",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.376,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_4_14",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.365,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_5_0",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.7025,
+    "light_intensity": 0.519,
+    "light_score": 0.039
+  },
+  {
+    "zone_id": "ZONE_5_1",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.7475,
+    "light_intensity": 0.53,
+    "light_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_5_2",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.7925,
+    "light_intensity": 0.404,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_5_3",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.8375,
+    "light_intensity": 0.326,
+    "light_score": 0.025
+  },
+  {
+    "zone_id": "ZONE_5_4",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.335,
+    "light_score": 0.025
+  },
+  {
+    "zone_id": "ZONE_5_5",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 0.556,
+    "light_score": 0.042
+  },
+  {
+    "zone_id": "ZONE_5_6",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 0.965,
+    "light_score": 0.073
+  },
+  {
+    "zone_id": "ZONE_5_7",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.901,
+    "light_score": 0.068
+  },
+  {
+    "zone_id": "ZONE_5_8",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.533,
+    "light_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_5_9",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.488,
+    "light_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_5_10",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.5,
+    "light_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_5_11",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.554,
+    "light_score": 0.042
+  },
+  {
+    "zone_id": "ZONE_5_12",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.425,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_5_13",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.356,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_5_14",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.356,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_6_0",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.7025,
+    "light_intensity": 0.525,
+    "light_score": 0.039
+  },
+  {
+    "zone_id": "ZONE_6_1",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.7475,
+    "light_intensity": 0.459,
+    "light_score": 0.035
+  },
+  {
+    "zone_id": "ZONE_6_2",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.7925,
+    "light_intensity": 0.359,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_6_3",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.8375,
+    "light_intensity": 0.326,
+    "light_score": 0.025
+  },
+  {
+    "zone_id": "ZONE_6_4",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.36,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_6_5",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 0.997,
+    "light_score": 0.075
+  },
+  {
+    "zone_id": "ZONE_6_6",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 2.241,
+    "light_score": 0.169
+  },
+  {
+    "zone_id": "ZONE_6_7",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 2.952,
+    "light_score": 0.222
+  },
+  {
+    "zone_id": "ZONE_6_8",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.054,
+    "light_score": 0.079
+  },
+  {
+    "zone_id": "ZONE_6_9",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.878,
+    "light_score": 0.066
+  },
+  {
+    "zone_id": "ZONE_6_10",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.535,
+    "light_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_6_11",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.4,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_6_12",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.461,
+    "light_score": 0.035
+  },
+  {
+    "zone_id": "ZONE_6_13",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.374,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_6_14",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.37,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_7_0",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.7025,
+    "light_intensity": 0.471,
+    "light_score": 0.035
+  },
+  {
+    "zone_id": "ZONE_7_1",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.7475,
+    "light_intensity": 0.455,
+    "light_score": 0.034
+  },
+  {
+    "zone_id": "ZONE_7_2",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.7925,
+    "light_intensity": 0.353,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_7_3",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.8375,
+    "light_intensity": 0.334,
+    "light_score": 0.025
+  },
+  {
+    "zone_id": "ZONE_7_4",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.396,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_7_5",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 1.85,
+    "light_score": 0.139
+  },
+  {
+    "zone_id": "ZONE_7_6",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 2.434,
+    "light_score": 0.183
+  },
+  {
+    "zone_id": "ZONE_7_7",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 1.582,
+    "light_score": 0.119
+  },
+  {
+    "zone_id": "ZONE_7_8",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.925,
+    "light_score": 0.145
+  },
+  {
+    "zone_id": "ZONE_7_9",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 1.644,
+    "light_score": 0.124
+  },
+  {
+    "zone_id": "ZONE_7_10",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 1.278,
+    "light_score": 0.096
+  },
+  {
+    "zone_id": "ZONE_7_11",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.699,
+    "light_score": 0.053
+  },
+  {
+    "zone_id": "ZONE_7_12",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.461,
+    "light_score": 0.035
+  },
+  {
+    "zone_id": "ZONE_7_13",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.38,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_7_14",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.402,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_8_0",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.7025,
+    "light_intensity": 0.445,
+    "light_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_8_1",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.7475,
+    "light_intensity": 0.404,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_8_2",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.7925,
+    "light_intensity": 0.355,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_8_3",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.8375,
+    "light_intensity": 0.385,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_8_4",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.533,
+    "light_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_8_5",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 4.301,
+    "light_score": 0.324
+  },
+  {
+    "zone_id": "ZONE_8_6",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 9.104,
+    "light_score": 0.685
+  },
+  {
+    "zone_id": "ZONE_8_7",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 3.061,
+    "light_score": 0.23
+  },
+  {
+    "zone_id": "ZONE_8_8",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.937,
+    "light_score": 0.146
+  },
+  {
+    "zone_id": "ZONE_8_9",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 3.625,
+    "light_score": 0.273
+  },
+  {
+    "zone_id": "ZONE_8_10",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 1.244,
+    "light_score": 0.094
+  },
+  {
+    "zone_id": "ZONE_8_11",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.608,
+    "light_score": 0.046
+  },
+  {
+    "zone_id": "ZONE_8_12",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.438,
+    "light_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_8_13",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.393,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_8_14",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.391,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_9_0",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.7025,
+    "light_intensity": 0.357,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_9_1",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.7475,
+    "light_intensity": 0.364,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_9_2",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.7925,
+    "light_intensity": 0.425,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_9_3",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.8375,
+    "light_intensity": 0.489,
+    "light_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_9_4",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 0.9,
+    "light_score": 0.068
+  },
+  {
+    "zone_id": "ZONE_9_5",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 3.912,
+    "light_score": 0.294
+  },
+  {
+    "zone_id": "ZONE_9_6",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 5.551,
+    "light_score": 0.418
+  },
+  {
+    "zone_id": "ZONE_9_7",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 2.746,
+    "light_score": 0.207
+  },
+  {
+    "zone_id": "ZONE_9_8",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.344,
+    "light_score": 0.101
+  },
+  {
+    "zone_id": "ZONE_9_9",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.747,
+    "light_score": 0.056
+  },
+  {
+    "zone_id": "ZONE_9_10",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.895,
+    "light_score": 0.067
+  },
+  {
+    "zone_id": "ZONE_9_11",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.681,
+    "light_score": 0.051
+  },
+  {
+    "zone_id": "ZONE_9_12",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.528,
+    "light_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_9_13",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.436,
+    "light_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_9_14",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.392,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_10_0",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.7025,
+    "light_intensity": 0.376,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_10_1",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.7475,
+    "light_intensity": 0.446,
+    "light_score": 0.034
+  },
+  {
+    "zone_id": "ZONE_10_2",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.7925,
+    "light_intensity": 0.708,
+    "light_score": 0.053
+  },
+  {
+    "zone_id": "ZONE_10_3",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.8375,
+    "light_intensity": 2.248,
+    "light_score": 0.169
+  },
+  {
+    "zone_id": "ZONE_10_4",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 2.247,
+    "light_score": 0.169
+  },
+  {
+    "zone_id": "ZONE_10_5",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 6.745,
+    "light_score": 0.507
+  },
+  {
+    "zone_id": "ZONE_10_6",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 4.096,
+    "light_score": 0.308
+  },
+  {
+    "zone_id": "ZONE_10_7",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 2.336,
+    "light_score": 0.176
+  },
+  {
+    "zone_id": "ZONE_10_8",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.914,
+    "light_score": 0.069
+  },
+  {
+    "zone_id": "ZONE_10_9",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.852,
+    "light_score": 0.064
+  },
+  {
+    "zone_id": "ZONE_10_10",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.75,
+    "light_score": 0.056
+  },
+  {
+    "zone_id": "ZONE_10_11",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.702,
+    "light_score": 0.053
+  },
+  {
+    "zone_id": "ZONE_10_12",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.747,
+    "light_score": 0.056
+  },
+  {
+    "zone_id": "ZONE_10_13",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.412,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_10_14",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.372,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_11_0",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.7025,
+    "light_intensity": 0.406,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_11_1",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.7475,
+    "light_intensity": 0.594,
+    "light_score": 0.045
+  },
+  {
+    "zone_id": "ZONE_11_2",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.7925,
+    "light_intensity": 7.776,
+    "light_score": 0.585
+  },
+  {
+    "zone_id": "ZONE_11_3",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.8375,
+    "light_intensity": 10.782,
+    "light_score": 0.811
+  },
+  {
+    "zone_id": "ZONE_11_4",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 5.932,
+    "light_score": 0.446
+  },
+  {
+    "zone_id": "ZONE_11_5",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 5.42,
+    "light_score": 0.408
+  },
+  {
+    "zone_id": "ZONE_11_6",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 3.108,
+    "light_score": 0.234
+  },
+  {
+    "zone_id": "ZONE_11_7",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 4.839,
+    "light_score": 0.364
+  },
+  {
+    "zone_id": "ZONE_11_8",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.849,
+    "light_score": 0.139
+  },
+  {
+    "zone_id": "ZONE_11_9",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 1.147,
+    "light_score": 0.086
+  },
+  {
+    "zone_id": "ZONE_11_10",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.695,
+    "light_score": 0.052
+  },
+  {
+    "zone_id": "ZONE_11_11",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.582,
+    "light_score": 0.044
+  },
+  {
+    "zone_id": "ZONE_11_12",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.502,
+    "light_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_11_13",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.409,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_11_14",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.712,
+    "light_score": 0.054
+  },
+  {
+    "zone_id": "ZONE_12_0",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.7025,
+    "light_intensity": 0.56,
+    "light_score": 0.042
+  },
+  {
+    "zone_id": "ZONE_12_1",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.7475,
+    "light_intensity": 0.67,
+    "light_score": 0.05
+  },
+  {
+    "zone_id": "ZONE_12_2",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.7925,
+    "light_intensity": 2.794,
+    "light_score": 0.21
+  },
+  {
+    "zone_id": "ZONE_12_3",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.8375,
+    "light_intensity": 4.524,
+    "light_score": 0.34
+  },
+  {
+    "zone_id": "ZONE_12_4",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 4.542,
+    "light_score": 0.342
+  },
+  {
+    "zone_id": "ZONE_12_5",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 1.981,
+    "light_score": 0.149
+  },
+  {
+    "zone_id": "ZONE_12_6",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 3.188,
+    "light_score": 0.24
+  },
+  {
+    "zone_id": "ZONE_12_7",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 1.611,
+    "light_score": 0.121
+  },
+  {
+    "zone_id": "ZONE_12_8",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 2.618,
+    "light_score": 0.197
+  },
+  {
+    "zone_id": "ZONE_12_9",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.943,
+    "light_score": 0.071
+  },
+  {
+    "zone_id": "ZONE_12_10",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.658,
+    "light_score": 0.049
+  },
+  {
+    "zone_id": "ZONE_12_11",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.561,
+    "light_score": 0.042
+  },
+  {
+    "zone_id": "ZONE_12_12",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.402,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_12_13",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.447,
+    "light_score": 0.034
+  },
+  {
+    "zone_id": "ZONE_12_14",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.46,
+    "light_score": 0.035
+  },
+  {
+    "zone_id": "ZONE_13_0",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.7025,
+    "light_intensity": 0.458,
+    "light_score": 0.034
+  },
+  {
+    "zone_id": "ZONE_13_1",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.7475,
+    "light_intensity": 1.068,
+    "light_score": 0.08
+  },
+  {
+    "zone_id": "ZONE_13_2",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.7925,
+    "light_intensity": 5.509,
+    "light_score": 0.414
+  },
+  {
+    "zone_id": "ZONE_13_3",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.8375,
+    "light_intensity": 13.295,
+    "light_score": 1.0
+  },
+  {
+    "zone_id": "ZONE_13_4",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 4.904,
+    "light_score": 0.369
+  },
+  {
+    "zone_id": "ZONE_13_5",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 4.671,
+    "light_score": 0.351
+  },
+  {
+    "zone_id": "ZONE_13_6",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 3.815,
+    "light_score": 0.287
+  },
+  {
+    "zone_id": "ZONE_13_7",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 2.268,
+    "light_score": 0.171
+  },
+  {
+    "zone_id": "ZONE_13_8",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.388,
+    "light_score": 0.104
+  },
+  {
+    "zone_id": "ZONE_13_9",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 1.006,
+    "light_score": 0.076
+  },
+  {
+    "zone_id": "ZONE_13_10",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.752,
+    "light_score": 0.057
+  },
+  {
+    "zone_id": "ZONE_13_11",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.576,
+    "light_score": 0.043
+  },
+  {
+    "zone_id": "ZONE_13_12",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.412,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_13_13",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.394,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_13_14",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.41,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_14_0",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.7025,
+    "light_intensity": 0.51,
+    "light_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_14_1",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.7475,
+    "light_intensity": 5.378,
+    "light_score": 0.405
+  },
+  {
+    "zone_id": "ZONE_14_2",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.7925,
+    "light_intensity": 6.808,
+    "light_score": 0.512
+  },
+  {
+    "zone_id": "ZONE_14_3",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.8375,
+    "light_intensity": 6.426,
+    "light_score": 0.483
+  },
+  {
+    "zone_id": "ZONE_14_4",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 1.798,
+    "light_score": 0.135
+  },
+  {
+    "zone_id": "ZONE_14_5",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 2.021,
+    "light_score": 0.152
+  },
+  {
+    "zone_id": "ZONE_14_6",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 4.567,
+    "light_score": 0.344
+  },
+  {
+    "zone_id": "ZONE_14_7",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 4.598,
+    "light_score": 0.346
+  },
+  {
+    "zone_id": "ZONE_14_8",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.943,
+    "light_score": 0.146
+  },
+  {
+    "zone_id": "ZONE_14_9",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 1.08,
+    "light_score": 0.081
+  },
+  {
+    "zone_id": "ZONE_14_10",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 1.391,
+    "light_score": 0.105
+  },
+  {
+    "zone_id": "ZONE_14_11",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.617,
+    "light_score": 0.046
+  },
+  {
+    "zone_id": "ZONE_14_12",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.418,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_14_13",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.359,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_14_14",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.392,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_15_0",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.7025,
+    "light_intensity": 0.591,
+    "light_score": 0.044
+  },
+  {
+    "zone_id": "ZONE_15_1",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.7475,
+    "light_intensity": 6.643,
+    "light_score": 0.5
+  },
+  {
+    "zone_id": "ZONE_15_2",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.7925,
+    "light_intensity": 6.753,
+    "light_score": 0.508
+  },
+  {
+    "zone_id": "ZONE_15_3",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.8375,
+    "light_intensity": 4.18,
+    "light_score": 0.314
+  },
+  {
+    "zone_id": "ZONE_15_4",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 2.452,
+    "light_score": 0.184
+  },
+  {
+    "zone_id": "ZONE_15_5",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 2.047,
+    "light_score": 0.154
+  },
+  {
+    "zone_id": "ZONE_15_6",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 2.153,
+    "light_score": 0.162
+  },
+  {
+    "zone_id": "ZONE_15_7",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 2.846,
+    "light_score": 0.214
+  },
+  {
+    "zone_id": "ZONE_15_8",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 1.164,
+    "light_score": 0.088
+  },
+  {
+    "zone_id": "ZONE_15_9",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.677,
+    "light_score": 0.051
+  },
+  {
+    "zone_id": "ZONE_15_10",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.676,
+    "light_score": 0.051
+  },
+  {
+    "zone_id": "ZONE_15_11",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.55,
+    "light_score": 0.041
+  },
+  {
+    "zone_id": "ZONE_15_12",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.414,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_15_13",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.368,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_15_14",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.391,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_16_0",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.7025,
+    "light_intensity": 0.754,
+    "light_score": 0.057
+  },
+  {
+    "zone_id": "ZONE_16_1",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.7475,
+    "light_intensity": 4.051,
+    "light_score": 0.305
+  },
+  {
+    "zone_id": "ZONE_16_2",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.7925,
+    "light_intensity": 3.41,
+    "light_score": 0.256
+  },
+  {
+    "zone_id": "ZONE_16_3",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.8375,
+    "light_intensity": 5.783,
+    "light_score": 0.435
+  },
+  {
+    "zone_id": "ZONE_16_4",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 2.497,
+    "light_score": 0.188
+  },
+  {
+    "zone_id": "ZONE_16_5",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 1.715,
+    "light_score": 0.129
+  },
+  {
+    "zone_id": "ZONE_16_6",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 1.263,
+    "light_score": 0.095
+  },
+  {
+    "zone_id": "ZONE_16_7",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.789,
+    "light_score": 0.059
+  },
+  {
+    "zone_id": "ZONE_16_8",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.797,
+    "light_score": 0.06
+  },
+  {
+    "zone_id": "ZONE_16_9",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.538,
+    "light_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_16_10",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.596,
+    "light_score": 0.045
+  },
+  {
+    "zone_id": "ZONE_16_11",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.42,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_16_12",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.366,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_16_13",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.342,
+    "light_score": 0.026
+  },
+  {
+    "zone_id": "ZONE_16_14",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.389,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_17_0",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.7025,
+    "light_intensity": 1.509,
+    "light_score": 0.114
+  },
+  {
+    "zone_id": "ZONE_17_1",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.7475,
+    "light_intensity": 1.591,
+    "light_score": 0.12
+  },
+  {
+    "zone_id": "ZONE_17_2",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.7925,
+    "light_intensity": 1.765,
+    "light_score": 0.133
+  },
+  {
+    "zone_id": "ZONE_17_3",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.8375,
+    "light_intensity": 4.031,
+    "light_score": 0.303
+  },
+  {
+    "zone_id": "ZONE_17_4",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 1.308,
+    "light_score": 0.098
+  },
+  {
+    "zone_id": "ZONE_17_5",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 1.093,
+    "light_score": 0.082
+  },
+  {
+    "zone_id": "ZONE_17_6",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 1.592,
+    "light_score": 0.12
+  },
+  {
+    "zone_id": "ZONE_17_7",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.834,
+    "light_score": 0.063
+  },
+  {
+    "zone_id": "ZONE_17_8",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.491,
+    "light_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_17_9",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.446,
+    "light_score": 0.034
+  },
+  {
+    "zone_id": "ZONE_17_10",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.437,
+    "light_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_17_11",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.413,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_17_12",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.386,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_17_13",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.395,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_17_14",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.422,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_18_0",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.7025,
+    "light_intensity": 1.29,
+    "light_score": 0.097
+  },
+  {
+    "zone_id": "ZONE_18_1",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.7475,
+    "light_intensity": 1.164,
+    "light_score": 0.088
+  },
+  {
+    "zone_id": "ZONE_18_2",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.7925,
+    "light_intensity": 1.849,
+    "light_score": 0.139
+  },
+  {
+    "zone_id": "ZONE_18_3",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.8375,
+    "light_intensity": 3.897,
+    "light_score": 0.293
+  },
+  {
+    "zone_id": "ZONE_18_4",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 4.254,
+    "light_score": 0.32
+  },
+  {
+    "zone_id": "ZONE_18_5",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 1.003,
+    "light_score": 0.075
+  },
+  {
+    "zone_id": "ZONE_18_6",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 0.699,
+    "light_score": 0.053
+  },
+  {
+    "zone_id": "ZONE_18_7",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.658,
+    "light_score": 0.049
+  },
+  {
+    "zone_id": "ZONE_18_8",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.499,
+    "light_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_18_9",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.388,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_18_10",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.357,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_18_11",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.375,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_18_12",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.434,
+    "light_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_18_13",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.487,
+    "light_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_18_14",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.556,
+    "light_score": 0.042
+  },
+  {
+    "zone_id": "ZONE_19_0",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.7025,
+    "light_intensity": 0.949,
+    "light_score": 0.071
+  },
+  {
+    "zone_id": "ZONE_19_1",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.7475,
+    "light_intensity": 0.634,
+    "light_score": 0.048
+  },
+  {
+    "zone_id": "ZONE_19_2",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.7925,
+    "light_intensity": 0.821,
+    "light_score": 0.062
+  },
+  {
+    "zone_id": "ZONE_19_3",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.8375,
+    "light_intensity": 2.018,
+    "light_score": 0.152
+  },
+  {
+    "zone_id": "ZONE_19_4",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 1.795,
+    "light_score": 0.135
+  },
+  {
+    "zone_id": "ZONE_19_5",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 0.652,
+    "light_score": 0.049
+  },
+  {
+    "zone_id": "ZONE_19_6",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 0.501,
+    "light_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_19_7",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.519,
+    "light_score": 0.039
+  },
+  {
+    "zone_id": "ZONE_19_8",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.526,
+    "light_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_19_9",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.429,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_19_10",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.365,
+    "light_score": 0.027
+  },
+  {
+    "zone_id": "ZONE_19_11",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.377,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_19_12",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.38,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_19_13",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.457,
+    "light_score": 0.034
+  },
+  {
+    "zone_id": "ZONE_19_14",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.507,
+    "light_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_20_0",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.7025,
+    "light_intensity": 0.485,
+    "light_score": 0.036
+  },
+  {
+    "zone_id": "ZONE_20_1",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.7475,
+    "light_intensity": 0.536,
+    "light_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_20_2",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.7925,
+    "light_intensity": 0.508,
+    "light_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_20_3",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.8375,
+    "light_intensity": 0.849,
+    "light_score": 0.064
+  },
+  {
+    "zone_id": "ZONE_20_4",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.88250000000001,
+    "light_intensity": 1.14,
+    "light_score": 0.086
+  },
+  {
+    "zone_id": "ZONE_20_5",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.92750000000001,
+    "light_intensity": 0.514,
+    "light_score": 0.039
+  },
+  {
+    "zone_id": "ZONE_20_6",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.97250000000001,
+    "light_intensity": 0.44,
+    "light_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_20_7",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.01750000000001,
+    "light_intensity": 0.407,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_20_8",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.06250000000001,
+    "light_intensity": 0.418,
+    "light_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_20_9",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.10750000000002,
+    "light_intensity": 0.432,
+    "light_score": 0.032
+  },
+  {
+    "zone_id": "ZONE_20_10",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.15250000000002,
+    "light_intensity": 0.386,
+    "light_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_20_11",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.19750000000002,
+    "light_intensity": 0.436,
+    "light_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_20_12",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.24250000000002,
+    "light_intensity": 0.371,
+    "light_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_20_13",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.28750000000002,
+    "light_intensity": 0.396,
+    "light_score": 0.03
+  },
+  {
+    "zone_id": "ZONE_20_14",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.33250000000002,
+    "light_intensity": 0.527,
+    "light_score": 0.04
+  }
+]
