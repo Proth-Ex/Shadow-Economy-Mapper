@@ -2,6 +2,7 @@ import requests
 import json
 import statistics
 
+
 # --------------------------------------------------
 # CONFIG
 # --------------------------------------------------
@@ -14,9 +15,10 @@ LNG_MAX = 74.33
 
 CELL_SIZE = 0.045   # 5 km grid
 
+
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 
-OUTPUT_FILE = "zones_with_density.json"
+OUTPUT_FILE = "./data/zones_with_density.json"
 
 
 # --------------------------------------------------

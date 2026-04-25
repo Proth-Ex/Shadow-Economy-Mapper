@@ -19,7 +19,7 @@ LNG_MAX = 74.33
 
 CELL_SIZE = 0.045   # 5 km grid
 
-OUTPUT_FILE = "light_intensity_zones.json"
+OUTPUT_FILE = "./data/light_intensity_zones.json"
 
 # VIIRS dataset
 

@@ -1,0 +1,4097 @@
+[
+  {
+    "zone_id": "ZONE_0_0",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_1",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_2",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_3",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_4",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.88250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_5",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.92750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_6",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 73.97250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_7",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.01750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_8",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.06250000000001,
+    "road_count": 13,
+    "mobility_score": 0.009
+  },
+  {
+    "zone_id": "ZONE_0_9",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.10750000000002,
+    "road_count": 4,
+    "mobility_score": 0.003
+  },
+  {
+    "zone_id": "ZONE_0_10",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.15250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_11",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.19750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_12",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_13",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_0_14",
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 14.902500000000002,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_0",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_1",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_2",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_3",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_4",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.88250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_5",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.92750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_6",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 73.97250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_7",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.01750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_8",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.06250000000001,
+    "road_count": 52,
+    "mobility_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_1_9",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.10750000000002,
+    "road_count": 12,
+    "mobility_score": 0.009
+  },
+  {
+    "zone_id": "ZONE_1_10",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.15250000000002,
+    "road_count": 2,
+    "mobility_score": 0.001
+  },
+  {
+    "zone_id": "ZONE_1_11",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.19750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_12",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_13",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_1_14",
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 14.947500000000002,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_2_0",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_2_1",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_2_2",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_2_3",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_2_4",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.88250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_2_5",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.92750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_2_6",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 73.97250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_2_7",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.01750000000001,
+    "road_count": 52,
+    "mobility_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_2_8",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.06250000000001,
+    "road_count": 110,
+    "mobility_score": 0.08
+  },
+  {
+    "zone_id": "ZONE_2_9",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.10750000000002,
+    "road_count": 34,
+    "mobility_score": 0.025
+  },
+  {
+    "zone_id": "ZONE_2_10",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.15250000000002,
+    "road_count": 12,
+    "mobility_score": 0.009
+  },
+  {
+    "zone_id": "ZONE_2_11",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.19750000000002,
+    "road_count": 6,
+    "mobility_score": 0.004
+  },
+  {
+    "zone_id": "ZONE_2_12",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.24250000000002,
+    "road_count": 3,
+    "mobility_score": 0.002
+  },
+  {
+    "zone_id": "ZONE_2_13",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.28750000000002,
+    "road_count": 1,
+    "mobility_score": 0.001
+  },
+  {
+    "zone_id": "ZONE_2_14",
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 14.992500000000001,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_3_0",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_3_1",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_3_2",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_3_3",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_3_4",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.88250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_3_5",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.92750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_3_6",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 73.97250000000001,
+    "road_count": 31,
+    "mobility_score": 0.023
+  },
+  {
+    "zone_id": "ZONE_3_7",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.01750000000001,
+    "road_count": 36,
+    "mobility_score": 0.026
+  },
+  {
+    "zone_id": "ZONE_3_8",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.06250000000001,
+    "road_count": 18,
+    "mobility_score": 0.013
+  },
+  {
+    "zone_id": "ZONE_3_9",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.10750000000002,
+    "road_count": 19,
+    "mobility_score": 0.014
+  },
+  {
+    "zone_id": "ZONE_3_10",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.15250000000002,
+    "road_count": 16,
+    "mobility_score": 0.012
+  },
+  {
+    "zone_id": "ZONE_3_11",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.19750000000002,
+    "road_count": 2,
+    "mobility_score": 0.001
+  },
+  {
+    "zone_id": "ZONE_3_12",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.24250000000002,
+    "road_count": 5,
+    "mobility_score": 0.004
+  },
+  {
+    "zone_id": "ZONE_3_13",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_3_14",
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.037500000000001,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_4_0",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_4_1",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_4_2",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_4_3",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_4_4",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.88250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_4_5",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.92750000000001,
+    "road_count": 7,
+    "mobility_score": 0.005
+  },
+  {
+    "zone_id": "ZONE_4_6",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 73.97250000000001,
+    "road_count": 18,
+    "mobility_score": 0.013
+  },
+  {
+    "zone_id": "ZONE_4_7",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.01750000000001,
+    "road_count": 17,
+    "mobility_score": 0.012
+  },
+  {
+    "zone_id": "ZONE_4_8",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.06250000000001,
+    "road_count": 16,
+    "mobility_score": 0.012
+  },
+  {
+    "zone_id": "ZONE_4_9",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.10750000000002,
+    "road_count": 7,
+    "mobility_score": 0.005
+  },
+  {
+    "zone_id": "ZONE_4_10",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.15250000000002,
+    "road_count": 14,
+    "mobility_score": 0.01
+  },
+  {
+    "zone_id": "ZONE_4_11",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.19750000000002,
+    "road_count": 39,
+    "mobility_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_4_12",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.24250000000002,
+    "road_count": 10,
+    "mobility_score": 0.007
+  },
+  {
+    "zone_id": "ZONE_4_13",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_4_14",
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.082500000000001,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_5_0",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_5_1",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_5_2",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_5_3",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_5_4",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.88250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_5_5",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.92750000000001,
+    "road_count": 14,
+    "mobility_score": 0.01
+  },
+  {
+    "zone_id": "ZONE_5_6",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 73.97250000000001,
+    "road_count": 42,
+    "mobility_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_5_7",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.01750000000001,
+    "road_count": 48,
+    "mobility_score": 0.035
+  },
+  {
+    "zone_id": "ZONE_5_8",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.06250000000001,
+    "road_count": 8,
+    "mobility_score": 0.006
+  },
+  {
+    "zone_id": "ZONE_5_9",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.10750000000002,
+    "road_count": 12,
+    "mobility_score": 0.009
+  },
+  {
+    "zone_id": "ZONE_5_10",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.15250000000002,
+    "road_count": 34,
+    "mobility_score": 0.025
+  },
+  {
+    "zone_id": "ZONE_5_11",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.19750000000002,
+    "road_count": 71,
+    "mobility_score": 0.052
+  },
+  {
+    "zone_id": "ZONE_5_12",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.24250000000002,
+    "road_count": 3,
+    "mobility_score": 0.002
+  },
+  {
+    "zone_id": "ZONE_5_13",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_5_14",
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.127500000000001,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_6_0",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_6_1",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_6_2",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_6_3",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_6_4",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.88250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_6_5",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.92750000000001,
+    "road_count": 43,
+    "mobility_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_6_6",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 73.97250000000001,
+    "road_count": 207,
+    "mobility_score": 0.151
+  },
+  {
+    "zone_id": "ZONE_6_7",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.01750000000001,
+    "road_count": 267,
+    "mobility_score": 0.194
+  },
+  {
+    "zone_id": "ZONE_6_8",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.06250000000001,
+    "road_count": 38,
+    "mobility_score": 0.028
+  },
+  {
+    "zone_id": "ZONE_6_9",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.10750000000002,
+    "road_count": 64,
+    "mobility_score": 0.047
+  },
+  {
+    "zone_id": "ZONE_6_10",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.15250000000002,
+    "road_count": 16,
+    "mobility_score": 0.012
+  },
+  {
+    "zone_id": "ZONE_6_11",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.19750000000002,
+    "road_count": 11,
+    "mobility_score": 0.008
+  },
+  {
+    "zone_id": "ZONE_6_12",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.24250000000002,
+    "road_count": 17,
+    "mobility_score": 0.012
+  },
+  {
+    "zone_id": "ZONE_6_13",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_6_14",
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.172500000000001,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_7_0",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_7_1",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_7_2",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_7_3",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_7_4",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.88250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_7_5",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.92750000000001,
+    "road_count": 203,
+    "mobility_score": 0.148
+  },
+  {
+    "zone_id": "ZONE_7_6",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 73.97250000000001,
+    "road_count": 317,
+    "mobility_score": 0.231
+  },
+  {
+    "zone_id": "ZONE_7_7",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.01750000000001,
+    "road_count": 174,
+    "mobility_score": 0.127
+  },
+  {
+    "zone_id": "ZONE_7_8",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.06250000000001,
+    "road_count": 308,
+    "mobility_score": 0.224
+  },
+  {
+    "zone_id": "ZONE_7_9",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.10750000000002,
+    "road_count": 230,
+    "mobility_score": 0.167
+  },
+  {
+    "zone_id": "ZONE_7_10",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.15250000000002,
+    "road_count": 161,
+    "mobility_score": 0.117
+  },
+  {
+    "zone_id": "ZONE_7_11",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.19750000000002,
+    "road_count": 40,
+    "mobility_score": 0.029
+  },
+  {
+    "zone_id": "ZONE_7_12",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.24250000000002,
+    "road_count": 12,
+    "mobility_score": 0.009
+  },
+  {
+    "zone_id": "ZONE_7_13",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.28750000000002,
+    "road_count": 1,
+    "mobility_score": 0.001
+  },
+  {
+    "zone_id": "ZONE_7_14",
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.217500000000001,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_8_0",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_8_1",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_8_2",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_8_3",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_8_4",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.88250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_8_5",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.92750000000001,
+    "road_count": 526,
+    "mobility_score": 0.383
+  },
+  {
+    "zone_id": "ZONE_8_6",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 73.97250000000001,
+    "road_count": 1374,
+    "mobility_score": 1.0
+  },
+  {
+    "zone_id": "ZONE_8_7",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.01750000000001,
+    "road_count": 364,
+    "mobility_score": 0.265
+  },
+  {
+    "zone_id": "ZONE_8_8",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.06250000000001,
+    "road_count": 196,
+    "mobility_score": 0.143
+  },
+  {
+    "zone_id": "ZONE_8_9",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.10750000000002,
+    "road_count": 370,
+    "mobility_score": 0.269
+  },
+  {
+    "zone_id": "ZONE_8_10",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.15250000000002,
+    "road_count": 31,
+    "mobility_score": 0.023
+  },
+  {
+    "zone_id": "ZONE_8_11",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.19750000000002,
+    "road_count": 23,
+    "mobility_score": 0.017
+  },
+  {
+    "zone_id": "ZONE_8_12",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.24250000000002,
+    "road_count": 2,
+    "mobility_score": 0.001
+  },
+  {
+    "zone_id": "ZONE_8_13",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_8_14",
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.262500000000001,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_9_0",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_9_1",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_9_2",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_9_3",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.8375,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_9_4",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.88250000000001,
+    "road_count": 23,
+    "mobility_score": 0.017
+  },
+  {
+    "zone_id": "ZONE_9_5",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.92750000000001,
+    "road_count": 473,
+    "mobility_score": 0.344
+  },
+  {
+    "zone_id": "ZONE_9_6",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 73.97250000000001,
+    "road_count": 743,
+    "mobility_score": 0.541
+  },
+  {
+    "zone_id": "ZONE_9_7",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.01750000000001,
+    "road_count": 213,
+    "mobility_score": 0.155
+  },
+  {
+    "zone_id": "ZONE_9_8",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.06250000000001,
+    "road_count": 51,
+    "mobility_score": 0.037
+  },
+  {
+    "zone_id": "ZONE_9_9",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.10750000000002,
+    "road_count": 26,
+    "mobility_score": 0.019
+  },
+  {
+    "zone_id": "ZONE_9_10",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.15250000000002,
+    "road_count": 59,
+    "mobility_score": 0.043
+  },
+  {
+    "zone_id": "ZONE_9_11",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.19750000000002,
+    "road_count": 52,
+    "mobility_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_9_12",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.24250000000002,
+    "road_count": 12,
+    "mobility_score": 0.009
+  },
+  {
+    "zone_id": "ZONE_9_13",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_9_14",
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.307500000000001,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_10_0",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_10_1",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_10_2",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_10_3",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.8375,
+    "road_count": 56,
+    "mobility_score": 0.041
+  },
+  {
+    "zone_id": "ZONE_10_4",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.88250000000001,
+    "road_count": 186,
+    "mobility_score": 0.135
+  },
+  {
+    "zone_id": "ZONE_10_5",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.92750000000001,
+    "road_count": 323,
+    "mobility_score": 0.235
+  },
+  {
+    "zone_id": "ZONE_10_6",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 73.97250000000001,
+    "road_count": 116,
+    "mobility_score": 0.084
+  },
+  {
+    "zone_id": "ZONE_10_7",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.01750000000001,
+    "road_count": 165,
+    "mobility_score": 0.12
+  },
+  {
+    "zone_id": "ZONE_10_8",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.06250000000001,
+    "road_count": 25,
+    "mobility_score": 0.018
+  },
+  {
+    "zone_id": "ZONE_10_9",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.10750000000002,
+    "road_count": 50,
+    "mobility_score": 0.036
+  },
+  {
+    "zone_id": "ZONE_10_10",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.15250000000002,
+    "road_count": 28,
+    "mobility_score": 0.02
+  },
+  {
+    "zone_id": "ZONE_10_11",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.19750000000002,
+    "road_count": 31,
+    "mobility_score": 0.023
+  },
+  {
+    "zone_id": "ZONE_10_12",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.24250000000002,
+    "road_count": 55,
+    "mobility_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_10_13",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_10_14",
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.352500000000001,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_11_0",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_11_1",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_11_2",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.7925,
+    "road_count": 243,
+    "mobility_score": 0.177
+  },
+  {
+    "zone_id": "ZONE_11_3",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.8375,
+    "road_count": 530,
+    "mobility_score": 0.386
+  },
+  {
+    "zone_id": "ZONE_11_4",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.88250000000001,
+    "road_count": 235,
+    "mobility_score": 0.171
+  },
+  {
+    "zone_id": "ZONE_11_5",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.92750000000001,
+    "road_count": 210,
+    "mobility_score": 0.153
+  },
+  {
+    "zone_id": "ZONE_11_6",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 73.97250000000001,
+    "road_count": 195,
+    "mobility_score": 0.142
+  },
+  {
+    "zone_id": "ZONE_11_7",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.01750000000001,
+    "road_count": 580,
+    "mobility_score": 0.422
+  },
+  {
+    "zone_id": "ZONE_11_8",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.06250000000001,
+    "road_count": 128,
+    "mobility_score": 0.093
+  },
+  {
+    "zone_id": "ZONE_11_9",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.10750000000002,
+    "road_count": 52,
+    "mobility_score": 0.038
+  },
+  {
+    "zone_id": "ZONE_11_10",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.15250000000002,
+    "road_count": 13,
+    "mobility_score": 0.009
+  },
+  {
+    "zone_id": "ZONE_11_11",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.19750000000002,
+    "road_count": 13,
+    "mobility_score": 0.009
+  },
+  {
+    "zone_id": "ZONE_11_12",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.24250000000002,
+    "road_count": 8,
+    "mobility_score": 0.006
+  },
+  {
+    "zone_id": "ZONE_11_13",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_11_14",
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.3975,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_12_0",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_12_1",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_12_2",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.7925,
+    "road_count": 153,
+    "mobility_score": 0.111
+  },
+  {
+    "zone_id": "ZONE_12_3",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.8375,
+    "road_count": 220,
+    "mobility_score": 0.16
+  },
+  {
+    "zone_id": "ZONE_12_4",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.88250000000001,
+    "road_count": 440,
+    "mobility_score": 0.32
+  },
+  {
+    "zone_id": "ZONE_12_5",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.92750000000001,
+    "road_count": 138,
+    "mobility_score": 0.1
+  },
+  {
+    "zone_id": "ZONE_12_6",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 73.97250000000001,
+    "road_count": 213,
+    "mobility_score": 0.155
+  },
+  {
+    "zone_id": "ZONE_12_7",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.01750000000001,
+    "road_count": 68,
+    "mobility_score": 0.049
+  },
+  {
+    "zone_id": "ZONE_12_8",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.06250000000001,
+    "road_count": 291,
+    "mobility_score": 0.212
+  },
+  {
+    "zone_id": "ZONE_12_9",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.10750000000002,
+    "road_count": 61,
+    "mobility_score": 0.044
+  },
+  {
+    "zone_id": "ZONE_12_10",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.15250000000002,
+    "road_count": 36,
+    "mobility_score": 0.026
+  },
+  {
+    "zone_id": "ZONE_12_11",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.19750000000002,
+    "road_count": 29,
+    "mobility_score": 0.021
+  },
+  {
+    "zone_id": "ZONE_12_12",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.24250000000002,
+    "road_count": 2,
+    "mobility_score": 0.001
+  },
+  {
+    "zone_id": "ZONE_12_13",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_12_14",
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.4425,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_13_0",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_13_1",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.7475,
+    "road_count": 21,
+    "mobility_score": 0.015
+  },
+  {
+    "zone_id": "ZONE_13_2",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.7925,
+    "road_count": 339,
+    "mobility_score": 0.247
+  },
+  {
+    "zone_id": "ZONE_13_3",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.8375,
+    "road_count": 843,
+    "mobility_score": 0.614
+  },
+  {
+    "zone_id": "ZONE_13_4",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.88250000000001,
+    "road_count": 361,
+    "mobility_score": 0.263
+  },
+  {
+    "zone_id": "ZONE_13_5",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.92750000000001,
+    "road_count": 465,
+    "mobility_score": 0.338
+  },
+  {
+    "zone_id": "ZONE_13_6",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 73.97250000000001,
+    "road_count": 142,
+    "mobility_score": 0.103
+  },
+  {
+    "zone_id": "ZONE_13_7",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.01750000000001,
+    "road_count": 121,
+    "mobility_score": 0.088
+  },
+  {
+    "zone_id": "ZONE_13_8",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.06250000000001,
+    "road_count": 128,
+    "mobility_score": 0.093
+  },
+  {
+    "zone_id": "ZONE_13_9",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.10750000000002,
+    "road_count": 111,
+    "mobility_score": 0.081
+  },
+  {
+    "zone_id": "ZONE_13_10",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.15250000000002,
+    "road_count": 78,
+    "mobility_score": 0.057
+  },
+  {
+    "zone_id": "ZONE_13_11",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.19750000000002,
+    "road_count": 21,
+    "mobility_score": 0.015
+  },
+  {
+    "zone_id": "ZONE_13_12",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_13_13",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_13_14",
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.4875,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_14_0",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_14_1",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.7475,
+    "road_count": 307,
+    "mobility_score": 0.223
+  },
+  {
+    "zone_id": "ZONE_14_2",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.7925,
+    "road_count": 422,
+    "mobility_score": 0.307
+  },
+  {
+    "zone_id": "ZONE_14_3",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.8375,
+    "road_count": 726,
+    "mobility_score": 0.528
+  },
+  {
+    "zone_id": "ZONE_14_4",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.88250000000001,
+    "road_count": 137,
+    "mobility_score": 0.1
+  },
+  {
+    "zone_id": "ZONE_14_5",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.92750000000001,
+    "road_count": 219,
+    "mobility_score": 0.159
+  },
+  {
+    "zone_id": "ZONE_14_6",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 73.97250000000001,
+    "road_count": 324,
+    "mobility_score": 0.236
+  },
+  {
+    "zone_id": "ZONE_14_7",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.01750000000001,
+    "road_count": 209,
+    "mobility_score": 0.152
+  },
+  {
+    "zone_id": "ZONE_14_8",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.06250000000001,
+    "road_count": 208,
+    "mobility_score": 0.151
+  },
+  {
+    "zone_id": "ZONE_14_9",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.10750000000002,
+    "road_count": 166,
+    "mobility_score": 0.121
+  },
+  {
+    "zone_id": "ZONE_14_10",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.15250000000002,
+    "road_count": 214,
+    "mobility_score": 0.156
+  },
+  {
+    "zone_id": "ZONE_14_11",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.19750000000002,
+    "road_count": 17,
+    "mobility_score": 0.012
+  },
+  {
+    "zone_id": "ZONE_14_12",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_14_13",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_14_14",
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.5325,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_15_0",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_15_1",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.7475,
+    "road_count": 408,
+    "mobility_score": 0.297
+  },
+  {
+    "zone_id": "ZONE_15_2",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.7925,
+    "road_count": 700,
+    "mobility_score": 0.509
+  },
+  {
+    "zone_id": "ZONE_15_3",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.8375,
+    "road_count": 463,
+    "mobility_score": 0.337
+  },
+  {
+    "zone_id": "ZONE_15_4",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.88250000000001,
+    "road_count": 300,
+    "mobility_score": 0.218
+  },
+  {
+    "zone_id": "ZONE_15_5",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.92750000000001,
+    "road_count": 187,
+    "mobility_score": 0.136
+  },
+  {
+    "zone_id": "ZONE_15_6",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 73.97250000000001,
+    "road_count": 321,
+    "mobility_score": 0.234
+  },
+  {
+    "zone_id": "ZONE_15_7",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.01750000000001,
+    "road_count": 434,
+    "mobility_score": 0.316
+  },
+  {
+    "zone_id": "ZONE_15_8",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.06250000000001,
+    "road_count": 129,
+    "mobility_score": 0.094
+  },
+  {
+    "zone_id": "ZONE_15_9",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.10750000000002,
+    "road_count": 21,
+    "mobility_score": 0.015
+  },
+  {
+    "zone_id": "ZONE_15_10",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.15250000000002,
+    "road_count": 87,
+    "mobility_score": 0.063
+  },
+  {
+    "zone_id": "ZONE_15_11",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.19750000000002,
+    "road_count": 50,
+    "mobility_score": 0.036
+  },
+  {
+    "zone_id": "ZONE_15_12",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_15_13",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_15_14",
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.5775,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_16_0",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.7025,
+    "road_count": 6,
+    "mobility_score": 0.004
+  },
+  {
+    "zone_id": "ZONE_16_1",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.7475,
+    "road_count": 322,
+    "mobility_score": 0.234
+  },
+  {
+    "zone_id": "ZONE_16_2",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.7925,
+    "road_count": 381,
+    "mobility_score": 0.277
+  },
+  {
+    "zone_id": "ZONE_16_3",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.8375,
+    "road_count": 635,
+    "mobility_score": 0.462
+  },
+  {
+    "zone_id": "ZONE_16_4",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.88250000000001,
+    "road_count": 298,
+    "mobility_score": 0.217
+  },
+  {
+    "zone_id": "ZONE_16_5",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.92750000000001,
+    "road_count": 232,
+    "mobility_score": 0.169
+  },
+  {
+    "zone_id": "ZONE_16_6",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 73.97250000000001,
+    "road_count": 75,
+    "mobility_score": 0.055
+  },
+  {
+    "zone_id": "ZONE_16_7",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.01750000000001,
+    "road_count": 43,
+    "mobility_score": 0.031
+  },
+  {
+    "zone_id": "ZONE_16_8",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.06250000000001,
+    "road_count": 95,
+    "mobility_score": 0.069
+  },
+  {
+    "zone_id": "ZONE_16_9",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.10750000000002,
+    "road_count": 8,
+    "mobility_score": 0.006
+  },
+  {
+    "zone_id": "ZONE_16_10",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.15250000000002,
+    "road_count": 55,
+    "mobility_score": 0.04
+  },
+  {
+    "zone_id": "ZONE_16_11",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.19750000000002,
+    "road_count": 5,
+    "mobility_score": 0.004
+  },
+  {
+    "zone_id": "ZONE_16_12",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_16_13",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_16_14",
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.6225,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_17_0",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.7025,
+    "road_count": 68,
+    "mobility_score": 0.049
+  },
+  {
+    "zone_id": "ZONE_17_1",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.7475,
+    "road_count": 62,
+    "mobility_score": 0.045
+  },
+  {
+    "zone_id": "ZONE_17_2",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.7925,
+    "road_count": 85,
+    "mobility_score": 0.062
+  },
+  {
+    "zone_id": "ZONE_17_3",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.8375,
+    "road_count": 248,
+    "mobility_score": 0.18
+  },
+  {
+    "zone_id": "ZONE_17_4",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.88250000000001,
+    "road_count": 89,
+    "mobility_score": 0.065
+  },
+  {
+    "zone_id": "ZONE_17_5",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.92750000000001,
+    "road_count": 106,
+    "mobility_score": 0.077
+  },
+  {
+    "zone_id": "ZONE_17_6",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 73.97250000000001,
+    "road_count": 71,
+    "mobility_score": 0.052
+  },
+  {
+    "zone_id": "ZONE_17_7",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.01750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_17_8",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.06250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_17_9",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.10750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_17_10",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.15250000000002,
+    "road_count": 2,
+    "mobility_score": 0.001
+  },
+  {
+    "zone_id": "ZONE_17_11",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.19750000000002,
+    "road_count": 3,
+    "mobility_score": 0.002
+  },
+  {
+    "zone_id": "ZONE_17_12",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_17_13",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_17_14",
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.6675,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_18_0",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.7025,
+    "road_count": 50,
+    "mobility_score": 0.036
+  },
+  {
+    "zone_id": "ZONE_18_1",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.7475,
+    "road_count": 26,
+    "mobility_score": 0.019
+  },
+  {
+    "zone_id": "ZONE_18_2",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.7925,
+    "road_count": 110,
+    "mobility_score": 0.08
+  },
+  {
+    "zone_id": "ZONE_18_3",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.8375,
+    "road_count": 73,
+    "mobility_score": 0.053
+  },
+  {
+    "zone_id": "ZONE_18_4",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.88250000000001,
+    "road_count": 107,
+    "mobility_score": 0.078
+  },
+  {
+    "zone_id": "ZONE_18_5",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.92750000000001,
+    "road_count": 60,
+    "mobility_score": 0.044
+  },
+  {
+    "zone_id": "ZONE_18_6",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 73.97250000000001,
+    "road_count": 9,
+    "mobility_score": 0.007
+  },
+  {
+    "zone_id": "ZONE_18_7",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.01750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_18_8",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.06250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_18_9",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.10750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_18_10",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.15250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_18_11",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.19750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_18_12",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_18_13",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_18_14",
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.7125,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_0",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.7025,
+    "road_count": 1,
+    "mobility_score": 0.001
+  },
+  {
+    "zone_id": "ZONE_19_1",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_2",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.7925,
+    "road_count": 14,
+    "mobility_score": 0.01
+  },
+  {
+    "zone_id": "ZONE_19_3",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.8375,
+    "road_count": 46,
+    "mobility_score": 0.033
+  },
+  {
+    "zone_id": "ZONE_19_4",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.88250000000001,
+    "road_count": 28,
+    "mobility_score": 0.02
+  },
+  {
+    "zone_id": "ZONE_19_5",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.92750000000001,
+    "road_count": 9,
+    "mobility_score": 0.007
+  },
+  {
+    "zone_id": "ZONE_19_6",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 73.97250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_7",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.01750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_8",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.06250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_9",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.10750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_10",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.15250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_11",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.19750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_12",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_13",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_19_14",
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.7575,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_0",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.68,
+      "east": 73.72500000000001
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.7025,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_1",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.72500000000001,
+      "east": 73.77000000000001
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.7475,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_2",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.77000000000001,
+      "east": 73.81500000000001
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.7925,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_3",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.81500000000001,
+      "east": 73.86000000000001
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.8375,
+    "road_count": 8,
+    "mobility_score": 0.006
+  },
+  {
+    "zone_id": "ZONE_20_4",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.86000000000001,
+      "east": 73.90500000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.88250000000001,
+    "road_count": 9,
+    "mobility_score": 0.007
+  },
+  {
+    "zone_id": "ZONE_20_5",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.90500000000002,
+      "east": 73.95000000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.92750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_6",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.95000000000002,
+      "east": 73.99500000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 73.97250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_7",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.99500000000002,
+      "east": 74.04000000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.01750000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_8",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.04000000000002,
+      "east": 74.08500000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.06250000000001,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_9",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.08500000000002,
+      "east": 74.13000000000002
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.10750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_10",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.13000000000002,
+      "east": 74.17500000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.15250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_11",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.17500000000003,
+      "east": 74.22000000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.19750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_12",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.22000000000003,
+      "east": 74.26500000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.24250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_13",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.26500000000003,
+      "east": 74.31000000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.28750000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  },
+  {
+    "zone_id": "ZONE_20_14",
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.31000000000003,
+      "east": 74.35500000000003
+    },
+    "center_lat": 15.8025,
+    "center_lng": 74.33250000000002,
+    "road_count": 0,
+    "mobility_score": 0.0
+  }
+]
