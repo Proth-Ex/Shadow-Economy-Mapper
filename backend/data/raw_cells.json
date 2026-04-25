@@ -1,0 +1,4727 @@
+[
+  {
+    "cell_id": "GOA_0000",
+    "lat": 14.9025,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.046,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0001",
+    "lat": 14.9025,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.041,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0002",
+    "lat": 14.9025,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.034,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0003",
+    "lat": 14.9025,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0004",
+    "lat": 14.9025,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.024,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0005",
+    "lat": 14.9025,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.023,
+    "registered_density": 0.0,
+    "population_density": 0.5998,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0006",
+    "lat": 14.9025,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.023,
+    "registered_density": 0.0,
+    "population_density": 0.6257,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0007",
+    "lat": 14.9025,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.023,
+    "registered_density": 0.0,
+    "population_density": 0.6446,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0008",
+    "lat": 14.9025,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.033,
+    "registered_density": 0.057,
+    "population_density": 0.6377,
+    "mobility_score": 0.009
+  },
+  {
+    "cell_id": "GOA_0009",
+    "lat": 14.9025,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.055,
+    "registered_density": 0.0,
+    "population_density": 0.612,
+    "mobility_score": 0.003
+  },
+  {
+    "cell_id": "GOA_0010",
+    "lat": 14.9025,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.045,
+    "registered_density": 0.0,
+    "population_density": 0.5918,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0011",
+    "lat": 14.9025,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.043,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0012",
+    "lat": 14.9025,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0013",
+    "lat": 14.9025,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.037,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0014",
+    "lat": 14.9025,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 14.88,
+      "north": 14.925,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.087,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0015",
+    "lat": 14.9475,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.045,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0016",
+    "lat": 14.9475,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.039,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0017",
+    "lat": 14.9475,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0018",
+    "lat": 14.9475,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.026,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0019",
+    "lat": 14.9475,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.024,
+    "registered_density": 0.0,
+    "population_density": 0.5945,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0020",
+    "lat": 14.9475,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.023,
+    "registered_density": 0.0,
+    "population_density": 0.6325,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0021",
+    "lat": 14.9475,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.022,
+    "registered_density": 0.0,
+    "population_density": 0.69,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0022",
+    "lat": 14.9475,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.026,
+    "registered_density": 0.0,
+    "population_density": 0.7233,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0023",
+    "lat": 14.9475,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.076,
+    "registered_density": 0.19,
+    "population_density": 0.712,
+    "mobility_score": 0.038
+  },
+  {
+    "cell_id": "GOA_0024",
+    "lat": 14.9475,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.046,
+    "registered_density": 0.019,
+    "population_density": 0.6623,
+    "mobility_score": 0.009
+  },
+  {
+    "cell_id": "GOA_0025",
+    "lat": 14.9475,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.6094,
+    "mobility_score": 0.001
+  },
+  {
+    "cell_id": "GOA_0026",
+    "lat": 14.9475,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.588,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0027",
+    "lat": 14.9475,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0028",
+    "lat": 14.9475,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0029",
+    "lat": 14.9475,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 14.925,
+      "north": 14.97,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0030",
+    "lat": 14.9925,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.043,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0031",
+    "lat": 14.9925,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.041,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0032",
+    "lat": 14.9925,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0033",
+    "lat": 14.9925,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0034",
+    "lat": 14.9925,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.024,
+    "registered_density": 0.0,
+    "population_density": 0.6023,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0035",
+    "lat": 14.9925,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.023,
+    "registered_density": 0.0,
+    "population_density": 0.6603,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0036",
+    "lat": 14.9925,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.024,
+    "registered_density": 0.0,
+    "population_density": 0.7335,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0037",
+    "lat": 14.9925,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.078,
+    "registered_density": 3.13,
+    "population_density": 0.7721,
+    "mobility_score": 0.038
+  },
+  {
+    "cell_id": "GOA_0038",
+    "lat": 14.9925,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.146,
+    "registered_density": 0.398,
+    "population_density": 0.7596,
+    "mobility_score": 0.08
+  },
+  {
+    "cell_id": "GOA_0039",
+    "lat": 14.9925,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.052,
+    "registered_density": 0.019,
+    "population_density": 0.7005,
+    "mobility_score": 0.025
+  },
+  {
+    "cell_id": "GOA_0040",
+    "lat": 14.9925,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.037,
+    "registered_density": 0.0,
+    "population_density": 0.6271,
+    "mobility_score": 0.009
+  },
+  {
+    "cell_id": "GOA_0041",
+    "lat": 14.9925,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.034,
+    "registered_density": 0.0,
+    "population_density": 0.591,
+    "mobility_score": 0.004
+  },
+  {
+    "cell_id": "GOA_0042",
+    "lat": 14.9925,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.002
+  },
+  {
+    "cell_id": "GOA_0043",
+    "lat": 14.9925,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.026,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.001
+  },
+  {
+    "cell_id": "GOA_0044",
+    "lat": 14.9925,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 14.97,
+      "north": 15.015,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0045",
+    "lat": 15.0375,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.044,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0046",
+    "lat": 15.0375,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.037,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0047",
+    "lat": 15.0375,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0048",
+    "lat": 15.0375,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0049",
+    "lat": 15.0375,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.024,
+    "registered_density": 0.0,
+    "population_density": 0.6011,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0050",
+    "lat": 15.0375,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.023,
+    "registered_density": 0.0,
+    "population_density": 0.6565,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0051",
+    "lat": 15.0375,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.044,
+    "registered_density": 1.138,
+    "population_density": 0.7281,
+    "mobility_score": 0.023
+  },
+  {
+    "cell_id": "GOA_0052",
+    "lat": 15.0375,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.066,
+    "registered_density": 0.152,
+    "population_density": 0.7664,
+    "mobility_score": 0.026
+  },
+  {
+    "cell_id": "GOA_0053",
+    "lat": 15.0375,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.041,
+    "registered_density": 0.019,
+    "population_density": 0.7543,
+    "mobility_score": 0.013
+  },
+  {
+    "cell_id": "GOA_0054",
+    "lat": 15.0375,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.035,
+    "registered_density": 0.019,
+    "population_density": 0.6963,
+    "mobility_score": 0.014
+  },
+  {
+    "cell_id": "GOA_0055",
+    "lat": 15.0375,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.036,
+    "registered_density": 0.0,
+    "population_density": 0.6252,
+    "mobility_score": 0.012
+  },
+  {
+    "cell_id": "GOA_0056",
+    "lat": 15.0375,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.5906,
+    "mobility_score": 0.001
+  },
+  {
+    "cell_id": "GOA_0057",
+    "lat": 15.0375,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.004
+  },
+  {
+    "cell_id": "GOA_0058",
+    "lat": 15.0375,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0059",
+    "lat": 15.0375,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.015,
+      "north": 15.06,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0060",
+    "lat": 15.0825,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.042,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0061",
+    "lat": 15.0825,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.038,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0062",
+    "lat": 15.0825,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.036,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0063",
+    "lat": 15.0825,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0064",
+    "lat": 15.0825,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.024,
+    "registered_density": 0.0,
+    "population_density": 0.5925,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0065",
+    "lat": 15.0825,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.035,
+    "registered_density": 0.247,
+    "population_density": 0.6246,
+    "mobility_score": 0.005
+  },
+  {
+    "cell_id": "GOA_0066",
+    "lat": 15.0825,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.042,
+    "registered_density": 0.095,
+    "population_density": 0.6767,
+    "mobility_score": 0.013
+  },
+  {
+    "cell_id": "GOA_0067",
+    "lat": 15.0825,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.037,
+    "registered_density": 0.057,
+    "population_density": 0.7086,
+    "mobility_score": 0.012
+  },
+  {
+    "cell_id": "GOA_0068",
+    "lat": 15.0825,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.034,
+    "registered_density": 0.0,
+    "population_density": 0.6985,
+    "mobility_score": 0.012
+  },
+  {
+    "cell_id": "GOA_0069",
+    "lat": 15.0825,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.6528,
+    "mobility_score": 0.005
+  },
+  {
+    "cell_id": "GOA_0070",
+    "lat": 15.0825,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.6058,
+    "mobility_score": 0.01
+  },
+  {
+    "cell_id": "GOA_0071",
+    "lat": 15.0825,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.037,
+    "registered_density": 0.038,
+    "population_density": 0.5874,
+    "mobility_score": 0.028
+  },
+  {
+    "cell_id": "GOA_0072",
+    "lat": 15.0825,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.033,
+    "registered_density": 0.038,
+    "population_density": 0.0,
+    "mobility_score": 0.007
+  },
+  {
+    "cell_id": "GOA_0073",
+    "lat": 15.0825,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0074",
+    "lat": 15.0825,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.06,
+      "north": 15.105,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0075",
+    "lat": 15.1275,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.039,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0076",
+    "lat": 15.1275,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0077",
+    "lat": 15.1275,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0078",
+    "lat": 15.1275,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.025,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0079",
+    "lat": 15.1275,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.025,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0080",
+    "lat": 15.1275,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.042,
+    "registered_density": 0.038,
+    "population_density": 0.5954,
+    "mobility_score": 0.01
+  },
+  {
+    "cell_id": "GOA_0081",
+    "lat": 15.1275,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.073,
+    "registered_density": 0.322,
+    "population_density": 0.6151,
+    "mobility_score": 0.031
+  },
+  {
+    "cell_id": "GOA_0082",
+    "lat": 15.1275,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.068,
+    "registered_density": 0.076,
+    "population_density": 0.7542,
+    "mobility_score": 0.035
+  },
+  {
+    "cell_id": "GOA_0083",
+    "lat": 15.1275,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.7792,
+    "mobility_score": 0.006
+  },
+  {
+    "cell_id": "GOA_0084",
+    "lat": 15.1275,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.037,
+    "registered_density": 0.0,
+    "population_density": 0.7763,
+    "mobility_score": 0.009
+  },
+  {
+    "cell_id": "GOA_0085",
+    "lat": 15.1275,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.038,
+    "registered_density": 0.0,
+    "population_density": 0.7484,
+    "mobility_score": 0.025
+  },
+  {
+    "cell_id": "GOA_0086",
+    "lat": 15.1275,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.042,
+    "registered_density": 0.0,
+    "population_density": 0.7129,
+    "mobility_score": 0.052
+  },
+  {
+    "cell_id": "GOA_0087",
+    "lat": 15.1275,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.7076,
+    "mobility_score": 0.002
+  },
+  {
+    "cell_id": "GOA_0088",
+    "lat": 15.1275,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.6874,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0089",
+    "lat": 15.1275,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.105,
+      "north": 15.15,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0090",
+    "lat": 15.1725,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.039,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0091",
+    "lat": 15.1725,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.035,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0092",
+    "lat": 15.1725,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0093",
+    "lat": 15.1725,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.025,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0094",
+    "lat": 15.1725,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.8424,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0095",
+    "lat": 15.1725,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.075,
+    "registered_density": 0.74,
+    "population_density": 0.8802,
+    "mobility_score": 0.031
+  },
+  {
+    "cell_id": "GOA_0096",
+    "lat": 15.1725,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.169,
+    "registered_density": 0.74,
+    "population_density": 0.9065,
+    "mobility_score": 0.151
+  },
+  {
+    "cell_id": "GOA_0097",
+    "lat": 15.1725,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.222,
+    "registered_density": 0.379,
+    "population_density": 0.9007,
+    "mobility_score": 0.194
+  },
+  {
+    "cell_id": "GOA_0098",
+    "lat": 15.1725,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.079,
+    "registered_density": 0.0,
+    "population_density": 0.8449,
+    "mobility_score": 0.028
+  },
+  {
+    "cell_id": "GOA_0099",
+    "lat": 15.1725,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.066,
+    "registered_density": 0.0,
+    "population_density": 0.8437,
+    "mobility_score": 0.047
+  },
+  {
+    "cell_id": "GOA_0100",
+    "lat": 15.1725,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.8019,
+    "mobility_score": 0.012
+  },
+  {
+    "cell_id": "GOA_0101",
+    "lat": 15.1725,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.7728,
+    "mobility_score": 0.008
+  },
+  {
+    "cell_id": "GOA_0102",
+    "lat": 15.1725,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.035,
+    "registered_density": 0.0,
+    "population_density": 0.7547,
+    "mobility_score": 0.012
+  },
+  {
+    "cell_id": "GOA_0103",
+    "lat": 15.1725,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.7141,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0104",
+    "lat": 15.1725,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.15,
+      "north": 15.195,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0105",
+    "lat": 15.2175,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.035,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0106",
+    "lat": 15.2175,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.034,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0107",
+    "lat": 15.2175,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0108",
+    "lat": 15.2175,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.025,
+    "registered_density": 0.0,
+    "population_density": 0.8358,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0109",
+    "lat": 15.2175,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.8794,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0110",
+    "lat": 15.2175,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.139,
+    "registered_density": 1.669,
+    "population_density": 0.9234,
+    "mobility_score": 0.148
+  },
+  {
+    "cell_id": "GOA_0111",
+    "lat": 15.2175,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.183,
+    "registered_density": 1.119,
+    "population_density": 0.9447,
+    "mobility_score": 0.231
+  },
+  {
+    "cell_id": "GOA_0112",
+    "lat": 15.2175,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.119,
+    "registered_density": 0.228,
+    "population_density": 0.9303,
+    "mobility_score": 0.127
+  },
+  {
+    "cell_id": "GOA_0113",
+    "lat": 15.2175,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.145,
+    "registered_density": 0.626,
+    "population_density": 0.8792,
+    "mobility_score": 0.224
+  },
+  {
+    "cell_id": "GOA_0114",
+    "lat": 15.2175,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.124,
+    "registered_density": 0.19,
+    "population_density": 0.8831,
+    "mobility_score": 0.167
+  },
+  {
+    "cell_id": "GOA_0115",
+    "lat": 15.2175,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.096,
+    "registered_density": 0.341,
+    "population_density": 0.841,
+    "mobility_score": 0.117
+  },
+  {
+    "cell_id": "GOA_0116",
+    "lat": 15.2175,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.053,
+    "registered_density": 0.057,
+    "population_density": 0.8234,
+    "mobility_score": 0.029
+  },
+  {
+    "cell_id": "GOA_0117",
+    "lat": 15.2175,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.035,
+    "registered_density": 0.0,
+    "population_density": 0.7887,
+    "mobility_score": 0.009
+  },
+  {
+    "cell_id": "GOA_0118",
+    "lat": 15.2175,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.73,
+    "mobility_score": 0.001
+  },
+  {
+    "cell_id": "GOA_0119",
+    "lat": 15.2175,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.195,
+      "north": 15.24,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.6826,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0120",
+    "lat": 15.2625,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.033,
+    "registered_density": 0.0,
+    "population_density": 0.7472,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0121",
+    "lat": 15.2625,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.7585,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0122",
+    "lat": 15.2625,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.7733,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0123",
+    "lat": 15.2625,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.7769,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0124",
+    "lat": 15.2625,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.909,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0125",
+    "lat": 15.2625,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.324,
+    "registered_density": 5.615,
+    "population_density": 0.9559,
+    "mobility_score": 0.383
+  },
+  {
+    "cell_id": "GOA_0126",
+    "lat": 15.2625,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.685,
+    "registered_density": 8.366,
+    "population_density": 0.974,
+    "mobility_score": 1.0
+  },
+  {
+    "cell_id": "GOA_0127",
+    "lat": 15.2625,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.23,
+    "registered_density": 0.057,
+    "population_density": 0.9539,
+    "mobility_score": 0.265
+  },
+  {
+    "cell_id": "GOA_0128",
+    "lat": 15.2625,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.146,
+    "registered_density": 0.19,
+    "population_density": 0.8698,
+    "mobility_score": 0.143
+  },
+  {
+    "cell_id": "GOA_0129",
+    "lat": 15.2625,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.273,
+    "registered_density": 1.081,
+    "population_density": 0.8804,
+    "mobility_score": 0.269
+  },
+  {
+    "cell_id": "GOA_0130",
+    "lat": 15.2625,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.094,
+    "registered_density": 0.0,
+    "population_density": 0.8445,
+    "mobility_score": 0.023
+  },
+  {
+    "cell_id": "GOA_0131",
+    "lat": 15.2625,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.046,
+    "registered_density": 0.0,
+    "population_density": 0.8402,
+    "mobility_score": 0.017
+  },
+  {
+    "cell_id": "GOA_0132",
+    "lat": 15.2625,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.033,
+    "registered_density": 0.0,
+    "population_density": 0.7943,
+    "mobility_score": 0.001
+  },
+  {
+    "cell_id": "GOA_0133",
+    "lat": 15.2625,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.7257,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0134",
+    "lat": 15.2625,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.24,
+      "north": 15.285,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.6785,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0135",
+    "lat": 15.3075,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.7628,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0136",
+    "lat": 15.3075,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.8031,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0137",
+    "lat": 15.3075,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.8412,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0138",
+    "lat": 15.3075,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.037,
+    "registered_density": 0.0,
+    "population_density": 0.8474,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0139",
+    "lat": 15.3075,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.068,
+    "registered_density": 0.436,
+    "population_density": 0.9033,
+    "mobility_score": 0.017
+  },
+  {
+    "cell_id": "GOA_0140",
+    "lat": 15.3075,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.294,
+    "registered_density": 1.48,
+    "population_density": 0.9486,
+    "mobility_score": 0.344
+  },
+  {
+    "cell_id": "GOA_0141",
+    "lat": 15.3075,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.418,
+    "registered_density": 2.371,
+    "population_density": 0.9657,
+    "mobility_score": 0.541
+  },
+  {
+    "cell_id": "GOA_0142",
+    "lat": 15.3075,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.207,
+    "registered_density": 0.266,
+    "population_density": 0.9453,
+    "mobility_score": 0.155
+  },
+  {
+    "cell_id": "GOA_0143",
+    "lat": 15.3075,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.101,
+    "registered_density": 0.038,
+    "population_density": 0.8911,
+    "mobility_score": 0.037
+  },
+  {
+    "cell_id": "GOA_0144",
+    "lat": 15.3075,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.056,
+    "registered_density": 0.0,
+    "population_density": 0.7733,
+    "mobility_score": 0.019
+  },
+  {
+    "cell_id": "GOA_0145",
+    "lat": 15.3075,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.067,
+    "registered_density": 0.038,
+    "population_density": 0.8148,
+    "mobility_score": 0.043
+  },
+  {
+    "cell_id": "GOA_0146",
+    "lat": 15.3075,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.051,
+    "registered_density": 0.0,
+    "population_density": 0.8112,
+    "mobility_score": 0.038
+  },
+  {
+    "cell_id": "GOA_0147",
+    "lat": 15.3075,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.7648,
+    "mobility_score": 0.009
+  },
+  {
+    "cell_id": "GOA_0148",
+    "lat": 15.3075,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.033,
+    "registered_density": 0.0,
+    "population_density": 0.704,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0149",
+    "lat": 15.3075,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.285,
+      "north": 15.33,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.6713,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0150",
+    "lat": 15.3525,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.7882,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0151",
+    "lat": 15.3525,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.034,
+    "registered_density": 0.0,
+    "population_density": 0.8556,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0152",
+    "lat": 15.3525,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.053,
+    "registered_density": 0.0,
+    "population_density": 0.9055,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0153",
+    "lat": 15.3525,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.169,
+    "registered_density": 0.114,
+    "population_density": 0.9108,
+    "mobility_score": 0.041
+  },
+  {
+    "cell_id": "GOA_0154",
+    "lat": 15.3525,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.169,
+    "registered_density": 0.493,
+    "population_density": 0.8696,
+    "mobility_score": 0.135
+  },
+  {
+    "cell_id": "GOA_0155",
+    "lat": 15.3525,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.507,
+    "registered_density": 0.398,
+    "population_density": 0.898,
+    "mobility_score": 0.235
+  },
+  {
+    "cell_id": "GOA_0156",
+    "lat": 15.3525,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.308,
+    "registered_density": 0.133,
+    "population_density": 0.8544,
+    "mobility_score": 0.084
+  },
+  {
+    "cell_id": "GOA_0157",
+    "lat": 15.3525,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.176,
+    "registered_density": 0.19,
+    "population_density": 0.8714,
+    "mobility_score": 0.12
+  },
+  {
+    "cell_id": "GOA_0158",
+    "lat": 15.3525,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.069,
+    "registered_density": 0.0,
+    "population_density": 0.8463,
+    "mobility_score": 0.018
+  },
+  {
+    "cell_id": "GOA_0159",
+    "lat": 15.3525,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.064,
+    "registered_density": 0.057,
+    "population_density": 0.7943,
+    "mobility_score": 0.036
+  },
+  {
+    "cell_id": "GOA_0160",
+    "lat": 15.3525,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.056,
+    "registered_density": 0.0,
+    "population_density": 0.7522,
+    "mobility_score": 0.02
+  },
+  {
+    "cell_id": "GOA_0161",
+    "lat": 15.3525,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.053,
+    "registered_density": 0.019,
+    "population_density": 0.7445,
+    "mobility_score": 0.023
+  },
+  {
+    "cell_id": "GOA_0162",
+    "lat": 15.3525,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.056,
+    "registered_density": 0.057,
+    "population_density": 0.7121,
+    "mobility_score": 0.04
+  },
+  {
+    "cell_id": "GOA_0163",
+    "lat": 15.3525,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.679,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0164",
+    "lat": 15.3525,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.33,
+      "north": 15.375,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.5799,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0165",
+    "lat": 15.3975,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.7999,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0166",
+    "lat": 15.3975,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.045,
+    "registered_density": 0.0,
+    "population_density": 0.8747,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0167",
+    "lat": 15.3975,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.585,
+    "registered_density": 1.062,
+    "population_density": 0.9256,
+    "mobility_score": 0.177
+  },
+  {
+    "cell_id": "GOA_0168",
+    "lat": 15.3975,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.811,
+    "registered_density": 0.854,
+    "population_density": 0.9288,
+    "mobility_score": 0.386
+  },
+  {
+    "cell_id": "GOA_0169",
+    "lat": 15.3975,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.446,
+    "registered_density": 0.417,
+    "population_density": 0.8834,
+    "mobility_score": 0.171
+  },
+  {
+    "cell_id": "GOA_0170",
+    "lat": 15.3975,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.408,
+    "registered_density": 0.152,
+    "population_density": 0.8298,
+    "mobility_score": 0.153
+  },
+  {
+    "cell_id": "GOA_0171",
+    "lat": 15.3975,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.234,
+    "registered_density": 0.247,
+    "population_density": 0.8915,
+    "mobility_score": 0.142
+  },
+  {
+    "cell_id": "GOA_0172",
+    "lat": 15.3975,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.364,
+    "registered_density": 0.759,
+    "population_density": 0.9145,
+    "mobility_score": 0.422
+  },
+  {
+    "cell_id": "GOA_0173",
+    "lat": 15.3975,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.139,
+    "registered_density": 0.019,
+    "population_density": 0.8917,
+    "mobility_score": 0.093
+  },
+  {
+    "cell_id": "GOA_0174",
+    "lat": 15.3975,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.086,
+    "registered_density": 0.038,
+    "population_density": 0.8324,
+    "mobility_score": 0.038
+  },
+  {
+    "cell_id": "GOA_0175",
+    "lat": 15.3975,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.052,
+    "registered_density": 0.0,
+    "population_density": 0.6572,
+    "mobility_score": 0.009
+  },
+  {
+    "cell_id": "GOA_0176",
+    "lat": 15.3975,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.044,
+    "registered_density": 0.0,
+    "population_density": 0.6985,
+    "mobility_score": 0.009
+  },
+  {
+    "cell_id": "GOA_0177",
+    "lat": 15.3975,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.038,
+    "registered_density": 0.038,
+    "population_density": 0.6985,
+    "mobility_score": 0.006
+  },
+  {
+    "cell_id": "GOA_0178",
+    "lat": 15.3975,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.6572,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0179",
+    "lat": 15.3975,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.375,
+      "north": 15.42,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.054,
+    "registered_density": 0.0,
+    "population_density": 0.6032,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0180",
+    "lat": 15.4425,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.042,
+    "registered_density": 0.0,
+    "population_density": 0.7853,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0181",
+    "lat": 15.4425,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.05,
+    "registered_density": 0.0,
+    "population_density": 0.8479,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0182",
+    "lat": 15.4425,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.21,
+    "registered_density": 0.228,
+    "population_density": 0.8929,
+    "mobility_score": 0.111
+  },
+  {
+    "cell_id": "GOA_0183",
+    "lat": 15.4425,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.34,
+    "registered_density": 0.133,
+    "population_density": 0.8941,
+    "mobility_score": 0.16
+  },
+  {
+    "cell_id": "GOA_0184",
+    "lat": 15.4425,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.342,
+    "registered_density": 0.379,
+    "population_density": 0.9198,
+    "mobility_score": 0.32
+  },
+  {
+    "cell_id": "GOA_0185",
+    "lat": 15.4425,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.149,
+    "registered_density": 0.322,
+    "population_density": 0.8615,
+    "mobility_score": 0.1
+  },
+  {
+    "cell_id": "GOA_0186",
+    "lat": 15.4425,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.24,
+    "registered_density": 0.114,
+    "population_density": 0.8822,
+    "mobility_score": 0.155
+  },
+  {
+    "cell_id": "GOA_0187",
+    "lat": 15.4425,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.121,
+    "registered_density": 0.019,
+    "population_density": 0.911,
+    "mobility_score": 0.049
+  },
+  {
+    "cell_id": "GOA_0188",
+    "lat": 15.4425,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.197,
+    "registered_density": 0.019,
+    "population_density": 0.8959,
+    "mobility_score": 0.212
+  },
+  {
+    "cell_id": "GOA_0189",
+    "lat": 15.4425,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.071,
+    "registered_density": 0.0,
+    "population_density": 0.8426,
+    "mobility_score": 0.044
+  },
+  {
+    "cell_id": "GOA_0190",
+    "lat": 15.4425,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.049,
+    "registered_density": 0.0,
+    "population_density": 0.7021,
+    "mobility_score": 0.026
+  },
+  {
+    "cell_id": "GOA_0191",
+    "lat": 15.4425,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.042,
+    "registered_density": 0.0,
+    "population_density": 0.7515,
+    "mobility_score": 0.021
+  },
+  {
+    "cell_id": "GOA_0192",
+    "lat": 15.4425,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.7515,
+    "mobility_score": 0.001
+  },
+  {
+    "cell_id": "GOA_0193",
+    "lat": 15.4425,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.034,
+    "registered_density": 0.0,
+    "population_density": 0.7021,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0194",
+    "lat": 15.4425,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.42,
+      "north": 15.465,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.035,
+    "registered_density": 0.0,
+    "population_density": 0.6275,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0195",
+    "lat": 15.4875,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.034,
+    "registered_density": 0.0,
+    "population_density": 0.8206,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0196",
+    "lat": 15.4875,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.08,
+    "registered_density": 0.626,
+    "population_density": 0.8893,
+    "mobility_score": 0.015
+  },
+  {
+    "cell_id": "GOA_0197",
+    "lat": 15.4875,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.414,
+    "registered_density": 2.428,
+    "population_density": 0.9538,
+    "mobility_score": 0.247
+  },
+  {
+    "cell_id": "GOA_0198",
+    "lat": 15.4875,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 1.0,
+    "registered_density": 6.355,
+    "population_density": 0.9766,
+    "mobility_score": 0.614
+  },
+  {
+    "cell_id": "GOA_0199",
+    "lat": 15.4875,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.369,
+    "registered_density": 0.228,
+    "population_density": 0.9499,
+    "mobility_score": 0.263
+  },
+  {
+    "cell_id": "GOA_0200",
+    "lat": 15.4875,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.351,
+    "registered_density": 0.74,
+    "population_density": 0.8838,
+    "mobility_score": 0.338
+  },
+  {
+    "cell_id": "GOA_0201",
+    "lat": 15.4875,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.287,
+    "registered_density": 0.038,
+    "population_density": 0.8329,
+    "mobility_score": 0.103
+  },
+  {
+    "cell_id": "GOA_0202",
+    "lat": 15.4875,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.171,
+    "registered_density": 0.019,
+    "population_density": 0.864,
+    "mobility_score": 0.088
+  },
+  {
+    "cell_id": "GOA_0203",
+    "lat": 15.4875,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.104,
+    "registered_density": 0.0,
+    "population_density": 0.8581,
+    "mobility_score": 0.093
+  },
+  {
+    "cell_id": "GOA_0204",
+    "lat": 15.4875,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.076,
+    "registered_density": 0.0,
+    "population_density": 0.8175,
+    "mobility_score": 0.081
+  },
+  {
+    "cell_id": "GOA_0205",
+    "lat": 15.4875,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.057,
+    "registered_density": 0.0,
+    "population_density": 0.7021,
+    "mobility_score": 0.057
+  },
+  {
+    "cell_id": "GOA_0206",
+    "lat": 15.4875,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.043,
+    "registered_density": 0.0,
+    "population_density": 0.7515,
+    "mobility_score": 0.015
+  },
+  {
+    "cell_id": "GOA_0207",
+    "lat": 15.4875,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.7515,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0208",
+    "lat": 15.4875,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.7021,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0209",
+    "lat": 15.4875,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.465,
+      "north": 15.51,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.6275,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0210",
+    "lat": 15.5325,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.038,
+    "registered_density": 0.0,
+    "population_density": 0.9558,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0211",
+    "lat": 15.5325,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.405,
+    "registered_density": 8.1,
+    "population_density": 0.9897,
+    "mobility_score": 0.223
+  },
+  {
+    "cell_id": "GOA_0212",
+    "lat": 15.5325,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.512,
+    "registered_density": 1.005,
+    "population_density": 0.9366,
+    "mobility_score": 0.307
+  },
+  {
+    "cell_id": "GOA_0213",
+    "lat": 15.5325,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.483,
+    "registered_density": 6.355,
+    "population_density": 0.9581,
+    "mobility_score": 0.528
+  },
+  {
+    "cell_id": "GOA_0214",
+    "lat": 15.5325,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.135,
+    "registered_density": 0.171,
+    "population_density": 0.9323,
+    "mobility_score": 0.1
+  },
+  {
+    "cell_id": "GOA_0215",
+    "lat": 15.5325,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.152,
+    "registered_density": 0.076,
+    "population_density": 0.772,
+    "mobility_score": 0.159
+  },
+  {
+    "cell_id": "GOA_0216",
+    "lat": 15.5325,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.344,
+    "registered_density": 0.133,
+    "population_density": 0.8089,
+    "mobility_score": 0.236
+  },
+  {
+    "cell_id": "GOA_0217",
+    "lat": 15.5325,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.346,
+    "registered_density": 0.076,
+    "population_density": 0.8078,
+    "mobility_score": 0.152
+  },
+  {
+    "cell_id": "GOA_0218",
+    "lat": 15.5325,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.146,
+    "registered_density": 0.038,
+    "population_density": 0.7696,
+    "mobility_score": 0.151
+  },
+  {
+    "cell_id": "GOA_0219",
+    "lat": 15.5325,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.081,
+    "registered_density": 0.0,
+    "population_density": 0.8252,
+    "mobility_score": 0.121
+  },
+  {
+    "cell_id": "GOA_0220",
+    "lat": 15.5325,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.105,
+    "registered_density": 0.095,
+    "population_density": 0.8382,
+    "mobility_score": 0.156
+  },
+  {
+    "cell_id": "GOA_0221",
+    "lat": 15.5325,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.046,
+    "registered_density": 0.038,
+    "population_density": 0.8056,
+    "mobility_score": 0.012
+  },
+  {
+    "cell_id": "GOA_0222",
+    "lat": 15.5325,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.6985,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0223",
+    "lat": 15.5325,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.6572,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0224",
+    "lat": 15.5325,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.51,
+      "north": 15.555,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.6032,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0225",
+    "lat": 15.5775,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.044,
+    "registered_density": 0.0,
+    "population_density": 0.9621,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0226",
+    "lat": 15.5775,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.5,
+    "registered_density": 6.488,
+    "population_density": 1.0,
+    "mobility_score": 0.297
+  },
+  {
+    "cell_id": "GOA_0227",
+    "lat": 15.5775,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.508,
+    "registered_density": 13.317,
+    "population_density": 0.9989,
+    "mobility_score": 0.509
+  },
+  {
+    "cell_id": "GOA_0228",
+    "lat": 15.5775,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.314,
+    "registered_density": 1.935,
+    "population_density": 0.9617,
+    "mobility_score": 0.337
+  },
+  {
+    "cell_id": "GOA_0229",
+    "lat": 15.5775,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.184,
+    "registered_density": 0.341,
+    "population_density": 0.7527,
+    "mobility_score": 0.218
+  },
+  {
+    "cell_id": "GOA_0230",
+    "lat": 15.5775,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.154,
+    "registered_density": 0.095,
+    "population_density": 0.8216,
+    "mobility_score": 0.136
+  },
+  {
+    "cell_id": "GOA_0231",
+    "lat": 15.5775,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.162,
+    "registered_density": 0.057,
+    "population_density": 0.8634,
+    "mobility_score": 0.234
+  },
+  {
+    "cell_id": "GOA_0232",
+    "lat": 15.5775,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.214,
+    "registered_density": 0.797,
+    "population_density": 0.8592,
+    "mobility_score": 0.316
+  },
+  {
+    "cell_id": "GOA_0233",
+    "lat": 15.5775,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.088,
+    "registered_density": 0.0,
+    "population_density": 0.81,
+    "mobility_score": 0.094
+  },
+  {
+    "cell_id": "GOA_0234",
+    "lat": 15.5775,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.051,
+    "registered_density": 0.0,
+    "population_density": 0.8053,
+    "mobility_score": 0.015
+  },
+  {
+    "cell_id": "GOA_0235",
+    "lat": 15.5775,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.051,
+    "registered_density": 0.0,
+    "population_density": 0.8257,
+    "mobility_score": 0.063
+  },
+  {
+    "cell_id": "GOA_0236",
+    "lat": 15.5775,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.041,
+    "registered_density": 0.0,
+    "population_density": 0.804,
+    "mobility_score": 0.036
+  },
+  {
+    "cell_id": "GOA_0237",
+    "lat": 15.5775,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.6213,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0238",
+    "lat": 15.5775,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.6006,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0239",
+    "lat": 15.5775,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.555,
+      "north": 15.6,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.5799,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0240",
+    "lat": 15.6225,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.057,
+    "registered_density": 0.474,
+    "population_density": 0.7938,
+    "mobility_score": 0.004
+  },
+  {
+    "cell_id": "GOA_0241",
+    "lat": 15.6225,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.305,
+    "registered_density": 3.339,
+    "population_density": 0.9628,
+    "mobility_score": 0.234
+  },
+  {
+    "cell_id": "GOA_0242",
+    "lat": 15.6225,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.256,
+    "registered_density": 2.276,
+    "population_density": 0.9687,
+    "mobility_score": 0.277
+  },
+  {
+    "cell_id": "GOA_0243",
+    "lat": 15.6225,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.435,
+    "registered_density": 1.309,
+    "population_density": 0.9415,
+    "mobility_score": 0.462
+  },
+  {
+    "cell_id": "GOA_0244",
+    "lat": 15.6225,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.188,
+    "registered_density": 0.247,
+    "population_density": 0.7607,
+    "mobility_score": 0.217
+  },
+  {
+    "cell_id": "GOA_0245",
+    "lat": 15.6225,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.129,
+    "registered_density": 0.057,
+    "population_density": 0.8301,
+    "mobility_score": 0.169
+  },
+  {
+    "cell_id": "GOA_0246",
+    "lat": 15.6225,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.095,
+    "registered_density": 0.0,
+    "population_density": 0.8691,
+    "mobility_score": 0.055
+  },
+  {
+    "cell_id": "GOA_0247",
+    "lat": 15.6225,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.059,
+    "registered_density": 0.0,
+    "population_density": 0.8615,
+    "mobility_score": 0.031
+  },
+  {
+    "cell_id": "GOA_0248",
+    "lat": 15.6225,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.06,
+    "registered_density": 0.0,
+    "population_density": 0.8095,
+    "mobility_score": 0.069
+  },
+  {
+    "cell_id": "GOA_0249",
+    "lat": 15.6225,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.7522,
+    "mobility_score": 0.006
+  },
+  {
+    "cell_id": "GOA_0250",
+    "lat": 15.6225,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.045,
+    "registered_density": 0.0,
+    "population_density": 0.7783,
+    "mobility_score": 0.04
+  },
+  {
+    "cell_id": "GOA_0251",
+    "lat": 15.6225,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.7693,
+    "mobility_score": 0.004
+  },
+  {
+    "cell_id": "GOA_0252",
+    "lat": 15.6225,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.7292,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0253",
+    "lat": 15.6225,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.026,
+    "registered_density": 0.0,
+    "population_density": 0.6846,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0254",
+    "lat": 15.6225,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.6,
+      "north": 15.645,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0255",
+    "lat": 15.6675,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.114,
+    "registered_density": 3.737,
+    "population_density": 0.8255,
+    "mobility_score": 0.049
+  },
+  {
+    "cell_id": "GOA_0256",
+    "lat": 15.6675,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.12,
+    "registered_density": 0.152,
+    "population_density": 0.8318,
+    "mobility_score": 0.045
+  },
+  {
+    "cell_id": "GOA_0257",
+    "lat": 15.6675,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.133,
+    "registered_density": 0.019,
+    "population_density": 0.8104,
+    "mobility_score": 0.062
+  },
+  {
+    "cell_id": "GOA_0258",
+    "lat": 15.6675,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.303,
+    "registered_density": 0.171,
+    "population_density": 0.7691,
+    "mobility_score": 0.18
+  },
+  {
+    "cell_id": "GOA_0259",
+    "lat": 15.6675,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.098,
+    "registered_density": 0.0,
+    "population_density": 0.7381,
+    "mobility_score": 0.065
+  },
+  {
+    "cell_id": "GOA_0260",
+    "lat": 15.6675,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.082,
+    "registered_density": 0.0,
+    "population_density": 0.7928,
+    "mobility_score": 0.077
+  },
+  {
+    "cell_id": "GOA_0261",
+    "lat": 15.6675,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.12,
+    "registered_density": 0.0,
+    "population_density": 0.824,
+    "mobility_score": 0.052
+  },
+  {
+    "cell_id": "GOA_0262",
+    "lat": 15.6675,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.063,
+    "registered_density": 0.0,
+    "population_density": 0.814,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0263",
+    "lat": 15.6675,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.037,
+    "registered_density": 0.0,
+    "population_density": 0.768,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0264",
+    "lat": 15.6675,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.034,
+    "registered_density": 0.0,
+    "population_density": 0.6961,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0265",
+    "lat": 15.6675,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.033,
+    "registered_density": 0.0,
+    "population_density": 0.7159,
+    "mobility_score": 0.001
+  },
+  {
+    "cell_id": "GOA_0266",
+    "lat": 15.6675,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.7148,
+    "mobility_score": 0.002
+  },
+  {
+    "cell_id": "GOA_0267",
+    "lat": 15.6675,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.6931,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0268",
+    "lat": 15.6675,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.6709,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0269",
+    "lat": 15.6675,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.645,
+      "north": 15.69,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0270",
+    "lat": 15.7125,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.097,
+    "registered_density": 1.574,
+    "population_density": 0.8165,
+    "mobility_score": 0.036
+  },
+  {
+    "cell_id": "GOA_0271",
+    "lat": 15.7125,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.088,
+    "registered_density": 0.038,
+    "population_density": 0.8339,
+    "mobility_score": 0.019
+  },
+  {
+    "cell_id": "GOA_0272",
+    "lat": 15.7125,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.139,
+    "registered_density": 0.038,
+    "population_density": 0.8285,
+    "mobility_score": 0.08
+  },
+  {
+    "cell_id": "GOA_0273",
+    "lat": 15.7125,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.293,
+    "registered_density": 0.0,
+    "population_density": 0.7954,
+    "mobility_score": 0.053
+  },
+  {
+    "cell_id": "GOA_0274",
+    "lat": 15.7125,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.32,
+    "registered_density": 0.645,
+    "population_density": 0.7392,
+    "mobility_score": 0.078
+  },
+  {
+    "cell_id": "GOA_0275",
+    "lat": 15.7125,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.075,
+    "registered_density": 0.0,
+    "population_density": 0.6935,
+    "mobility_score": 0.044
+  },
+  {
+    "cell_id": "GOA_0276",
+    "lat": 15.7125,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.053,
+    "registered_density": 0.0,
+    "population_density": 0.7498,
+    "mobility_score": 0.007
+  },
+  {
+    "cell_id": "GOA_0277",
+    "lat": 15.7125,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.049,
+    "registered_density": 0.0,
+    "population_density": 0.7417,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0278",
+    "lat": 15.7125,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.038,
+    "registered_density": 0.0,
+    "population_density": 0.6625,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0279",
+    "lat": 15.7125,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.6675,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0280",
+    "lat": 15.7125,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.6735,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0281",
+    "lat": 15.7125,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.6739,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0282",
+    "lat": 15.7125,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.033,
+    "registered_density": 0.0,
+    "population_density": 0.6681,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0283",
+    "lat": 15.7125,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.037,
+    "registered_density": 0.0,
+    "population_density": 0.6626,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0284",
+    "lat": 15.7125,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.69,
+      "north": 15.735,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.042,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0285",
+    "lat": 15.7575,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.071,
+    "registered_density": 0.0,
+    "population_density": 0.7719,
+    "mobility_score": 0.001
+  },
+  {
+    "cell_id": "GOA_0286",
+    "lat": 15.7575,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.048,
+    "registered_density": 0.0,
+    "population_density": 0.7995,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0287",
+    "lat": 15.7575,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.062,
+    "registered_density": 0.0,
+    "population_density": 0.8071,
+    "mobility_score": 0.01
+  },
+  {
+    "cell_id": "GOA_0288",
+    "lat": 15.7575,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.152,
+    "registered_density": 0.038,
+    "population_density": 0.7824,
+    "mobility_score": 0.033
+  },
+  {
+    "cell_id": "GOA_0289",
+    "lat": 15.7575,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.135,
+    "registered_density": 0.0,
+    "population_density": 0.7322,
+    "mobility_score": 0.02
+  },
+  {
+    "cell_id": "GOA_0290",
+    "lat": 15.7575,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.049,
+    "registered_density": 0.0,
+    "population_density": 0.6915,
+    "mobility_score": 0.007
+  },
+  {
+    "cell_id": "GOA_0291",
+    "lat": 15.7575,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.038,
+    "registered_density": 0.0,
+    "population_density": 0.6998,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0292",
+    "lat": 15.7575,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.039,
+    "registered_density": 0.0,
+    "population_density": 0.6974,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0293",
+    "lat": 15.7575,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.6605,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0294",
+    "lat": 15.7575,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.661,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0295",
+    "lat": 15.7575,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.027,
+    "registered_density": 0.0,
+    "population_density": 0.6618,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0296",
+    "lat": 15.7575,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.6619,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0297",
+    "lat": 15.7575,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.6612,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0298",
+    "lat": 15.7575,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.034,
+    "registered_density": 0.0,
+    "population_density": 0.6605,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0299",
+    "lat": 15.7575,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.735,
+      "north": 15.78,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.038,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0300",
+    "lat": 15.8025,
+    "lng": 73.7025,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.68,
+      "east": 73.725
+    },
+    "light_score": 0.036,
+    "registered_density": 0.0,
+    "population_density": 0.7161,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0301",
+    "lat": 15.8025,
+    "lng": 73.7475,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.725,
+      "east": 73.77
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.7402,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0302",
+    "lat": 15.8025,
+    "lng": 73.7925,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.77,
+      "east": 73.815
+    },
+    "light_score": 0.038,
+    "registered_density": 0.0,
+    "population_density": 0.7512,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0303",
+    "lat": 15.8025,
+    "lng": 73.8375,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.815,
+      "east": 73.86
+    },
+    "light_score": 0.064,
+    "registered_density": 0.0,
+    "population_density": 0.736,
+    "mobility_score": 0.006
+  },
+  {
+    "cell_id": "GOA_0304",
+    "lat": 15.8025,
+    "lng": 73.8825,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.86,
+      "east": 73.905
+    },
+    "light_score": 0.086,
+    "registered_density": 0.0,
+    "population_density": 0.7048,
+    "mobility_score": 0.007
+  },
+  {
+    "cell_id": "GOA_0305",
+    "lat": 15.8025,
+    "lng": 73.9275,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.905,
+      "east": 73.95
+    },
+    "light_score": 0.039,
+    "registered_density": 0.0,
+    "population_density": 0.6836,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0306",
+    "lat": 15.8025,
+    "lng": 73.9725,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.95,
+      "east": 73.995
+    },
+    "light_score": 0.033,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0307",
+    "lat": 15.8025,
+    "lng": 74.0175,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 73.995,
+      "east": 74.04
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0308",
+    "lat": 15.8025,
+    "lng": 74.0625,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.04,
+      "east": 74.085
+    },
+    "light_score": 0.031,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0309",
+    "lat": 15.8025,
+    "lng": 74.1075,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.085,
+      "east": 74.13
+    },
+    "light_score": 0.032,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0310",
+    "lat": 15.8025,
+    "lng": 74.1525,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.13,
+      "east": 74.175
+    },
+    "light_score": 0.029,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0311",
+    "lat": 15.8025,
+    "lng": 74.1975,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.175,
+      "east": 74.22
+    },
+    "light_score": 0.033,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0312",
+    "lat": 15.8025,
+    "lng": 74.2425,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.22,
+      "east": 74.265
+    },
+    "light_score": 0.028,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0313",
+    "lat": 15.8025,
+    "lng": 74.2875,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.265,
+      "east": 74.31
+    },
+    "light_score": 0.03,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  },
+  {
+    "cell_id": "GOA_0314",
+    "lat": 15.8025,
+    "lng": 74.3325,
+    "bounds": {
+      "south": 15.78,
+      "north": 15.825,
+      "west": 74.31,
+      "east": 74.355
+    },
+    "light_score": 0.04,
+    "registered_density": 0.0,
+    "population_density": 0.0,
+    "mobility_score": 0.0
+  }
+]
