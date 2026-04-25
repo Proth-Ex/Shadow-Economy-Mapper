@@ -1,11 +1,10 @@
 import requests
 import json
-import math
-import os
+import statistics
 
-# -------------------------
+# --------------------------------------------------
 # CONFIG
-# -------------------------
+# --------------------------------------------------
 
 LAT_MIN = 14.88
 LAT_MAX = 15.80
@@ -13,49 +12,39 @@ LAT_MAX = 15.80
 LNG_MIN = 73.68
 LNG_MAX = 74.33
 
-CELL_SIZE = 0.045  # ~4 km grid
+CELL_SIZE = 0.045   # 5 km grid
 
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 
-OUTPUT_FILE = "zoned_businesses.json"
+OUTPUT_FILE = "zones_with_density.json"
 
 
-QUERY = """
-[out:json][timeout:25];
-area["name"="Goa"]->.searchArea;
-
-(
-  node["shop"](area.searchArea);
-  node["office"](area.searchArea);
-  node["amenity"="restaurant"](area.searchArea);
-);
-
-out body;
-"""
-
-
-# -------------------------
+# --------------------------------------------------
 # STEP 1 — FETCH BUSINESSES
-# -------------------------
+# --------------------------------------------------
 
-def fetch_osm_businesses():
+def fetch_businesses():
 
     print("Fetching businesses from OSM...")
 
-    headers = {
-        "User-Agent": "density-script/1.0"
-    }
+    query = """
+    [out:json][timeout:25];
+    area["name"="Goa"]->.searchArea;
+
+    (
+      node["shop"](area.searchArea);
+      node["office"](area.searchArea);
+      node["amenity"="restaurant"](area.searchArea);
+    );
+
+    out body;
+    """
 
     response = requests.post(
         OVERPASS_URL,
-        data={"data": QUERY},
-        headers=headers,
-        timeout=60
+        data={"data": query},
+        headers={"User-Agent": "density-script"}
     )
-
-    if response.status_code != 200:
-        print(response.text[:300])
-        return []
 
     data = response.json()
 
@@ -70,14 +59,14 @@ def fetch_osm_businesses():
                 "lng": element["lon"]
             })
 
-    print("Fetched:", len(businesses))
+    print("Businesses fetched:", len(businesses))
 
     return businesses
 
 
-# -------------------------
+# --------------------------------------------------
 # STEP 2 — GENERATE GRID
-# -------------------------
+# --------------------------------------------------
 
 def generate_grid():
 
@@ -94,6 +83,7 @@ def generate_grid():
         while lng < LNG_MAX:
 
             zone = {
+
                 "zone_id": f"ZONE_{row}_{col}",
 
                 "bounds": {
@@ -103,7 +93,15 @@ def generate_grid():
                     "east": lng + CELL_SIZE
                 },
 
-                "business_count": 0
+                "center_lat":
+                    lat + CELL_SIZE / 2,
+
+                "center_lng":
+                    lng + CELL_SIZE / 2,
+
+                "business_count": 0,
+
+                "density": 0
             }
 
             zones.append(zone)
@@ -119,29 +117,27 @@ def generate_grid():
     return zones
 
 
-# -------------------------
-# STEP 3 — FIND ZONE FOR BUSINESS
-# -------------------------
+# --------------------------------------------------
+# STEP 3 — CHECK POINT IN ZONE
+# --------------------------------------------------
 
-def find_zone(lat, lng, zones):
+def point_in_zone(lat, lng, zone):
 
-    for zone in zones:
+    b = zone["bounds"]
 
-        b = zone["bounds"]
+    return (
 
-        if (
-            b["south"] <= lat <= b["north"]
-            and
-            b["west"] <= lng <= b["east"]
-        ):
-            return zone
+        b["south"] <= lat <= b["north"]
+        and
 
-    return None
+        b["west"] <= lng <= b["east"]
+
+    )
 
 
-# -------------------------
+# --------------------------------------------------
 # STEP 4 — ASSIGN BUSINESSES
-# -------------------------
+# --------------------------------------------------
 
 def assign_businesses_to_zones(businesses, zones):
 
@@ -149,50 +145,124 @@ def assign_businesses_to_zones(businesses, zones):
 
     for biz in businesses:
 
-        zone = find_zone(
-            biz["lat"],
-            biz["lng"],
-            zones
+        for zone in zones:
+
+            if point_in_zone(
+
+                biz["lat"],
+                biz["lng"],
+                zone
+
+            ):
+
+                zone["business_count"] += 1
+
+                assigned += 1
+
+                break
+
+    print("Businesses assigned:", assigned)
+
+
+# --------------------------------------------------
+# STEP 5 — COMPUTE DENSITY
+# --------------------------------------------------
+
+def compute_density(zones):
+
+    print("Computing density...")
+
+    counts = [
+
+        z["business_count"]
+
+        for z in zones
+
+        if z["business_count"] > 0
+
+    ]
+
+    if not counts:
+
+        print("No businesses found.")
+
+        return
+
+    mean = statistics.mean(counts)
+
+    print("Average businesses per zone:", round(mean, 2))
+
+    for zone in zones:
+
+        count = zone["business_count"]
+
+        if mean > 0:
+
+            density = count / mean
+
+        else:
+
+            density = 0
+
+        zone["density"] = round(
+            density,
+            3
         )
 
-        if zone:
 
-            zone["business_count"] += 1
-            assigned += 1
+# --------------------------------------------------
+# STEP 6 — SAVE JSON
+# --------------------------------------------------
 
-    print("Assigned businesses:", assigned)
+def save_output(zones):
 
+    with open(
 
-# -------------------------
-# STEP 5 — SAVE RESULT
-# -------------------------
+        OUTPUT_FILE,
 
-def save_zones(zones):
+        "w"
 
-    with open(OUTPUT_FILE, "w") as f:
+    ) as f:
 
         json.dump(
+
             zones,
+
             f,
+
             indent=2
+
         )
 
     print("Saved to", OUTPUT_FILE)
 
 
-# -------------------------
+# --------------------------------------------------
 # MAIN
-# -------------------------
+# --------------------------------------------------
 
 if __name__ == "__main__":
 
-    businesses = fetch_osm_businesses()
+    businesses = fetch_businesses()
 
     zones = generate_grid()
 
     assign_businesses_to_zones(
+
         businesses,
+
         zones
+
     )
 
-    save_zones(zones)
+    compute_density(
+
+        zones
+
+    )
+
+    save_output(
+
+        zones
+
+    )
