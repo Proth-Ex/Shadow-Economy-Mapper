@@ -60,7 +60,7 @@ export default function MapPage() {
 
   useEffect(() => {
     fetchZones()
-      .then(res => { setZones(res.data); setLoading(false) })
+      .then(res => { setZones(Array.isArray(res.data) ? res.data : []); setLoading(false) })
       .catch(() => setLoading(false))
   }, [])
 
