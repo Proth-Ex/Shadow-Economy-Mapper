@@ -195,7 +195,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0862
+    "informal_probability": 0.085
   },
   {
     "cell_id": "GOA_0009",
@@ -525,7 +525,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1495
+    "informal_probability": 0.1452
   },
   {
     "cell_id": "GOA_0024",
@@ -547,7 +547,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0562
+    "informal_probability": 0.0557
   },
   {
     "cell_id": "GOA_0025",
@@ -833,7 +833,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.491
+    "informal_probability": 0.4205
   },
   {
     "cell_id": "GOA_0038",
@@ -855,7 +855,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1847
+    "informal_probability": 0.1758
   },
   {
     "cell_id": "GOA_0039",
@@ -877,7 +877,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0678
+    "informal_probability": 0.0673
   },
   {
     "cell_id": "GOA_0040",
@@ -1141,7 +1141,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.3809
+    "informal_probability": 0.3553
   },
   {
     "cell_id": "GOA_0052",
@@ -1163,7 +1163,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0911
+    "informal_probability": 0.0877
   },
   {
     "cell_id": "GOA_0053",
@@ -1185,7 +1185,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0354
+    "informal_probability": 0.035
   },
   {
     "cell_id": "GOA_0054",
@@ -1207,7 +1207,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.043
+    "informal_probability": 0.0425
   },
   {
     "cell_id": "GOA_0055",
@@ -1449,7 +1449,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1776
+    "informal_probability": 0.172
   },
   {
     "cell_id": "GOA_0066",
@@ -1471,7 +1471,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.096
+    "informal_probability": 0.0939
   },
   {
     "cell_id": "GOA_0067",
@@ -1493,7 +1493,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0569
+    "informal_probability": 0.0556
   },
   {
     "cell_id": "GOA_0068",
@@ -1581,7 +1581,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1582
+    "informal_probability": 0.1573
   },
   {
     "cell_id": "GOA_0072",
@@ -1603,7 +1603,7 @@
     "archetype": "Transit Corridor",
     "cluster_id": 3,
     "confidence": "low",
-    "informal_probability": 0.5157
+    "informal_probability": 0.5148
   },
   {
     "cell_id": "GOA_0073",
@@ -1779,7 +1779,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.114
+    "informal_probability": 0.1132
   },
   {
     "cell_id": "GOA_0081",
@@ -1801,7 +1801,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.3574
+    "informal_probability": 0.3502
   },
   {
     "cell_id": "GOA_0082",
@@ -1823,7 +1823,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0853
+    "informal_probability": 0.0836
   },
   {
     "cell_id": "GOA_0083",
@@ -2109,7 +2109,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.196
+    "informal_probability": 0.1794
   },
   {
     "cell_id": "GOA_0096",
@@ -2131,7 +2131,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.2007
+    "informal_probability": 0.184
   },
   {
     "cell_id": "GOA_0097",
@@ -2153,7 +2153,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.2
+    "informal_probability": 0.1915
   },
   {
     "cell_id": "GOA_0098",
@@ -2439,7 +2439,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.4165
+    "informal_probability": 0.3789
   },
   {
     "cell_id": "GOA_0111",
@@ -2461,7 +2461,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.3833
+    "informal_probability": 0.3581
   },
   {
     "cell_id": "GOA_0112",
@@ -2483,7 +2483,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.2041
+    "informal_probability": 0.1989
   },
   {
     "cell_id": "GOA_0113",
@@ -2505,7 +2505,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.3195
+    "informal_probability": 0.3054
   },
   {
     "cell_id": "GOA_0114",
@@ -2527,7 +2527,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1719
+    "informal_probability": 0.1676
   },
   {
     "cell_id": "GOA_0115",
@@ -2549,7 +2549,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1519
+    "informal_probability": 0.1442
   },
   {
     "cell_id": "GOA_0116",
@@ -2571,7 +2571,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0691
+    "informal_probability": 0.0678
   },
   {
     "cell_id": "GOA_0117",
@@ -2769,7 +2769,7 @@
     "archetype": "Formal Urban Hub",
     "cluster_id": 1,
     "confidence": "low",
-    "informal_probability": 0.5563
+    "informal_probability": 0.4298
   },
   {
     "cell_id": "GOA_0126",
@@ -2791,7 +2791,7 @@
     "archetype": "Formal Urban Hub",
     "cluster_id": 1,
     "confidence": "high",
-    "informal_probability": 0.8
+    "informal_probability": 0.6115
   },
   {
     "cell_id": "GOA_0127",
@@ -2813,7 +2813,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5266
+    "informal_probability": 0.5253
   },
   {
     "cell_id": "GOA_0128",
@@ -2835,7 +2835,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1415
+    "informal_probability": 0.1372
   },
   {
     "cell_id": "GOA_0129",
@@ -2857,7 +2857,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5282
+    "informal_probability": 0.5038
   },
   {
     "cell_id": "GOA_0130",
@@ -3077,7 +3077,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1788
+    "informal_probability": 0.169
   },
   {
     "cell_id": "GOA_0140",
@@ -3099,7 +3099,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5665
+    "informal_probability": 0.5331
   },
   {
     "cell_id": "GOA_0141",
@@ -3121,7 +3121,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "high",
-    "informal_probability": 0.694
+    "informal_probability": 0.6406
   },
   {
     "cell_id": "GOA_0142",
@@ -3143,7 +3143,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.3259
+    "informal_probability": 0.3199
   },
   {
     "cell_id": "GOA_0143",
@@ -3165,7 +3165,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1289
+    "informal_probability": 0.1281
   },
   {
     "cell_id": "GOA_0144",
@@ -3209,7 +3209,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0692
+    "informal_probability": 0.0684
   },
   {
     "cell_id": "GOA_0146",
@@ -3385,7 +3385,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1813
+    "informal_probability": 0.1787
   },
   {
     "cell_id": "GOA_0154",
@@ -3407,7 +3407,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.167
+    "informal_probability": 0.1559
   },
   {
     "cell_id": "GOA_0155",
@@ -3429,7 +3429,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5889
+    "informal_probability": 0.5799
   },
   {
     "cell_id": "GOA_0156",
@@ -3451,7 +3451,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.2187
+    "informal_probability": 0.2157
   },
   {
     "cell_id": "GOA_0157",
@@ -3473,7 +3473,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1462
+    "informal_probability": 0.142
   },
   {
     "cell_id": "GOA_0158",
@@ -3517,7 +3517,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0734
+    "informal_probability": 0.0721
   },
   {
     "cell_id": "GOA_0160",
@@ -3561,7 +3561,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0556
+    "informal_probability": 0.0552
   },
   {
     "cell_id": "GOA_0162",
@@ -3583,7 +3583,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1101
+    "informal_probability": 0.1088
   },
   {
     "cell_id": "GOA_0163",
@@ -3693,7 +3693,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "high",
-    "informal_probability": 0.6666
+    "informal_probability": 0.6427
   },
   {
     "cell_id": "GOA_0168",
@@ -3715,7 +3715,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "high",
-    "informal_probability": 0.778
+    "informal_probability": 0.7588
   },
   {
     "cell_id": "GOA_0169",
@@ -3737,7 +3737,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5342
+    "informal_probability": 0.5248
   },
   {
     "cell_id": "GOA_0170",
@@ -3759,7 +3759,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5276
+    "informal_probability": 0.5242
   },
   {
     "cell_id": "GOA_0171",
@@ -3781,7 +3781,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1736
+    "informal_probability": 0.168
   },
   {
     "cell_id": "GOA_0172",
@@ -3803,7 +3803,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "high",
-    "informal_probability": 0.614
+    "informal_probability": 0.5969
   },
   {
     "cell_id": "GOA_0173",
@@ -3825,7 +3825,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1488
+    "informal_probability": 0.1484
   },
   {
     "cell_id": "GOA_0174",
@@ -3847,7 +3847,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0764
+    "informal_probability": 0.0756
   },
   {
     "cell_id": "GOA_0175",
@@ -3913,7 +3913,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0413
+    "informal_probability": 0.0405
   },
   {
     "cell_id": "GOA_0178",
@@ -4023,7 +4023,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1716
+    "informal_probability": 0.1665
   },
   {
     "cell_id": "GOA_0183",
@@ -4045,7 +4045,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.2111
+    "informal_probability": 0.2081
   },
   {
     "cell_id": "GOA_0184",
@@ -4067,7 +4067,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.53
+    "informal_probability": 0.5214
   },
   {
     "cell_id": "GOA_0185",
@@ -4089,7 +4089,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1456
+    "informal_probability": 0.1384
   },
   {
     "cell_id": "GOA_0186",
@@ -4111,7 +4111,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1763
+    "informal_probability": 0.1737
   },
   {
     "cell_id": "GOA_0187",
@@ -4133,7 +4133,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1454
+    "informal_probability": 0.145
   },
   {
     "cell_id": "GOA_0188",
@@ -4155,7 +4155,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.2017
+    "informal_probability": 0.2012
   },
   {
     "cell_id": "GOA_0189",
@@ -4331,7 +4331,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1907
+    "informal_probability": 0.1766
   },
   {
     "cell_id": "GOA_0197",
@@ -4353,7 +4353,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5862
+    "informal_probability": 0.5315
   },
   {
     "cell_id": "GOA_0198",
@@ -4375,7 +4375,7 @@
     "archetype": "Formal Urban Hub",
     "cluster_id": 1,
     "confidence": "high",
-    "informal_probability": 0.7575
+    "informal_probability": 0.6143
   },
   {
     "cell_id": "GOA_0199",
@@ -4397,7 +4397,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5224
+    "informal_probability": 0.5173
   },
   {
     "cell_id": "GOA_0200",
@@ -4419,7 +4419,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5502
+    "informal_probability": 0.5335
   },
   {
     "cell_id": "GOA_0201",
@@ -4441,7 +4441,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.2011
+    "informal_probability": 0.2002
   },
   {
     "cell_id": "GOA_0202",
@@ -4463,7 +4463,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.144
+    "informal_probability": 0.1436
   },
   {
     "cell_id": "GOA_0203",
@@ -4661,7 +4661,7 @@
     "archetype": "Formal Urban Hub",
     "cluster_id": 1,
     "confidence": "low",
-    "informal_probability": 0.6444
+    "informal_probability": 0.4619
   },
   {
     "cell_id": "GOA_0212",
@@ -4683,7 +4683,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "high",
-    "informal_probability": 0.6171
+    "informal_probability": 0.5945
   },
   {
     "cell_id": "GOA_0213",
@@ -4705,7 +4705,7 @@
     "archetype": "Formal Urban Hub",
     "cluster_id": 1,
     "confidence": "medium",
-    "informal_probability": 0.5898
+    "informal_probability": 0.4467
   },
   {
     "cell_id": "GOA_0214",
@@ -4727,7 +4727,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.2018
+    "informal_probability": 0.198
   },
   {
     "cell_id": "GOA_0215",
@@ -4749,7 +4749,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1891
+    "informal_probability": 0.1874
   },
   {
     "cell_id": "GOA_0216",
@@ -4771,7 +4771,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5271
+    "informal_probability": 0.5241
   },
   {
     "cell_id": "GOA_0217",
@@ -4793,7 +4793,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.3467
+    "informal_probability": 0.345
   },
   {
     "cell_id": "GOA_0218",
@@ -4815,7 +4815,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1812
+    "informal_probability": 0.1803
   },
   {
     "cell_id": "GOA_0219",
@@ -4859,7 +4859,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1614
+    "informal_probability": 0.1593
   },
   {
     "cell_id": "GOA_0221",
@@ -4881,7 +4881,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0468
+    "informal_probability": 0.046
   },
   {
     "cell_id": "GOA_0222",
@@ -4991,7 +4991,7 @@
     "archetype": "Formal Urban Hub",
     "cluster_id": 1,
     "confidence": "low",
-    "informal_probability": 0.6217
+    "informal_probability": 0.4755
   },
   {
     "cell_id": "GOA_0227",
@@ -5013,7 +5013,7 @@
     "archetype": "Formal Urban Hub",
     "cluster_id": 1,
     "confidence": "medium",
-    "informal_probability": 0.7673
+    "informal_probability": 0.4673
   },
   {
     "cell_id": "GOA_0228",
@@ -5035,7 +5035,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5828
+    "informal_probability": 0.5393
   },
   {
     "cell_id": "GOA_0229",
@@ -5057,7 +5057,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.367
+    "informal_probability": 0.3593
   },
   {
     "cell_id": "GOA_0230",
@@ -5079,7 +5079,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.145
+    "informal_probability": 0.1428
   },
   {
     "cell_id": "GOA_0231",
@@ -5101,7 +5101,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.2058
+    "informal_probability": 0.2045
   },
   {
     "cell_id": "GOA_0232",
@@ -5123,7 +5123,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5435
+    "informal_probability": 0.5256
   },
   {
     "cell_id": "GOA_0233",
@@ -5299,7 +5299,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.148
+    "informal_probability": 0.1373
   },
   {
     "cell_id": "GOA_0241",
@@ -5321,7 +5321,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.6221
+    "informal_probability": 0.5468
   },
   {
     "cell_id": "GOA_0242",
@@ -5343,7 +5343,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "medium",
-    "informal_probability": 0.5917
+    "informal_probability": 0.5404
   },
   {
     "cell_id": "GOA_0243",
@@ -5365,7 +5365,7 @@
     "archetype": "Shadow Economy Zone",
     "cluster_id": 2,
     "confidence": "high",
-    "informal_probability": 0.6499
+    "informal_probability": 0.6204
   },
   {
     "cell_id": "GOA_0244",
@@ -5387,7 +5387,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.3556
+    "informal_probability": 0.35
   },
   {
     "cell_id": "GOA_0245",
@@ -5409,7 +5409,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1648
+    "informal_probability": 0.1635
   },
   {
     "cell_id": "GOA_0246",
@@ -5629,7 +5629,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.5244
+    "informal_probability": 0.4402
   },
   {
     "cell_id": "GOA_0256",
@@ -5651,7 +5651,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.107
+    "informal_probability": 0.1036
   },
   {
     "cell_id": "GOA_0257",
@@ -5673,7 +5673,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1057
+    "informal_probability": 0.1053
   },
   {
     "cell_id": "GOA_0258",
@@ -5695,7 +5695,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.3551
+    "informal_probability": 0.3512
   },
   {
     "cell_id": "GOA_0259",
@@ -5959,7 +5959,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.3576
+    "informal_probability": 0.3222
   },
   {
     "cell_id": "GOA_0271",
@@ -5981,7 +5981,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.0807
+    "informal_probability": 0.0799
   },
   {
     "cell_id": "GOA_0272",
@@ -6003,7 +6003,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1184
+    "informal_probability": 0.1176
   },
   {
     "cell_id": "GOA_0273",
@@ -6047,7 +6047,7 @@
     "archetype": "Residential Dense",
     "cluster_id": 0,
     "confidence": "medium",
-    "informal_probability": 0.4498
+    "informal_probability": 0.4353
   },
   {
     "cell_id": "GOA_0275",
@@ -6355,7 +6355,7 @@
     "archetype": "Normal",
     "cluster_id": -1,
     "confidence": "medium",
-    "informal_probability": 0.1331
+    "informal_probability": 0.1322
   },
   {
     "cell_id": "GOA_0289",

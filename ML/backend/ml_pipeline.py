@@ -206,18 +206,17 @@ def compute_confidence(row: pd.Series) -> str:
         return "low"
 
 
-def compute_informal_probability(df: pd.DataFrame) -> pd.DataFrame:
-    """Compute informal_probability from anomaly_score + archetype."""
-    # Base probability from anomaly score
+def compute_informal_probability(df):
+    # Base from anomaly score
     df["informal_probability"] = df["anomaly_score"] * 0.7
 
-    # Boost for Shadow Economy Zone archetype
-    shadow_mask = df["archetype"] == "Shadow Economy Zone"
-    df.loc[shadow_mask, "informal_probability"] += 0.25
+    # Archetype boosts
+    df.loc[df["archetype"] == "Shadow Economy Zone", "informal_probability"] += 0.25
+    df.loc[(df["anomaly_flag"] == -1) & (df["archetype"] != "Shadow Economy Zone"), "informal_probability"] += 0.10
 
-    # Small boost for anomalous non-shadow cells
-    anomalous_mask = (df["anomaly_flag"] == -1) & ~shadow_mask
-    df.loc[anomalous_mask, "informal_probability"] += 0.10
+    # DIRECT PENALTY for high formal business presence
+    # High OSM business = less likely to be informal
+    df["informal_probability"] -= df["registered_density"] * 0.30
 
     # Clip and round
     df["informal_probability"] = df["informal_probability"].clip(0, 1).round(4)
