@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
+import { Routes, Route, NavLink } from 'react-router-dom'
 import './App.css'
 import MapView from './components/MapView'
 import Sidebar from './components/Sidebar'
@@ -6,10 +7,34 @@ import StatsPanel from './components/StatsPanel'
 import FilterPanel from './components/FilterPanel'
 import Legend from './components/Legend'
 import DataSourceBadge from './components/DataSourceBadge'
+import StatsPage from './components/StatsPage'
 
 const API_BASE = 'http://localhost:8000'
 
-function App() {
+/* ── Navigation Bar ── */
+function NavBar() {
+  return (
+    <nav className="app-nav">
+      <NavLink to="/" className="app-nav-brand">
+        <span className="nav-icon">🗺️</span>
+        <span className="nav-title">SHADOW ECONOMY MAPPER</span>
+      </NavLink>
+      <div className="app-nav-links">
+        <NavLink to="/" end className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}>
+          <span className="nav-link-icon">🌍</span>
+          Map
+        </NavLink>
+        <NavLink to="/stats" className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}>
+          <span className="nav-link-icon">📊</span>
+          Analytics
+        </NavLink>
+      </div>
+    </nav>
+  )
+}
+
+/* ── Map Page (existing content) ── */
+function MapPage() {
   const [cells, setCells] = useState([])
   const [stats, setStats] = useState(null)
   const [selectedCell, setSelectedCell] = useState(null)
@@ -21,9 +46,8 @@ function App() {
     'Shadow Economy Zone', 'Formal Urban Hub', 'Residential Dense', 'Transit Corridor', 'Normal'
   ]))
   const [activeConfidence, setActiveConfidence] = useState(new Set(['high', 'medium', 'low']))
-  const [colorMode, setColorMode] = useState('score') // 'score' or 'archetype'
+  const [colorMode, setColorMode] = useState('score')
 
-  // Fetch data on mount
   useEffect(() => {
     async function fetchData() {
       try {
@@ -32,12 +56,9 @@ function App() {
           fetch(`${API_BASE}/api/cells`),
           fetch(`${API_BASE}/api/stats`),
         ])
-
         if (!cellsRes.ok || !statsRes.ok) throw new Error('API request failed')
-
         const cellsData = await cellsRes.json()
         const statsData = await statsRes.json()
-
         setCells(cellsData.cells || [])
         setStats(statsData)
         setError(null)
@@ -51,7 +72,6 @@ function App() {
     fetchData()
   }, [])
 
-  // Filter cells
   const filteredCells = cells.filter(cell => {
     if (!activeArchetypes.has(cell.archetype)) return false
     if (!activeConfidence.has(cell.confidence)) return false
@@ -61,11 +81,8 @@ function App() {
   const toggleArchetype = useCallback((archetype) => {
     setActiveArchetypes(prev => {
       const next = new Set(prev)
-      if (next.has(archetype)) {
-        next.delete(archetype)
-      } else {
-        next.add(archetype)
-      }
+      if (next.has(archetype)) next.delete(archetype)
+      else next.add(archetype)
       return next
     })
   }, [])
@@ -73,26 +90,18 @@ function App() {
   const toggleConfidence = useCallback((level) => {
     setActiveConfidence(prev => {
       const next = new Set(prev)
-      if (next.has(level)) {
-        next.delete(level)
-      } else {
-        next.add(level)
-      }
+      if (next.has(level)) next.delete(level)
+      else next.add(level)
       return next
     })
   }, [])
 
-  const handleCellClick = useCallback((cell) => {
-    setSelectedCell(cell)
-  }, [])
-
-  const handleClosePanel = useCallback(() => {
-    setSelectedCell(null)
-  }, [])
+  const handleCellClick = useCallback((cell) => setSelectedCell(cell), [])
+  const handleClosePanel = useCallback(() => setSelectedCell(null), [])
 
   if (loading) {
     return (
-      <div className="loading-overlay">
+      <div className="loading-overlay" style={{ top: 56 }}>
         <div className="loading-spinner" />
         <div className="loading-text">Analyzing shadow economy signals...</div>
       </div>
@@ -101,7 +110,7 @@ function App() {
 
   if (error) {
     return (
-      <div className="loading-overlay">
+      <div className="loading-overlay" style={{ top: 56 }}>
         <div style={{ fontSize: 40, marginBottom: 8 }}>⚠️</div>
         <div className="loading-text">{error}</div>
         <div style={{ fontSize: 12, color: 'var(--text-muted)', marginTop: 8 }}>
@@ -112,17 +121,9 @@ function App() {
   }
 
   return (
-    <div className="app-container">
-      {/* Header */}
-      <div className="app-header glass-panel">
-        <span className="header-icon">🗺️</span>
-        <h1>SHADOW ECONOMY MAPPER</h1>
-        <div className="header-divider" />
-        <span className="header-subtitle">Goa, India — Real Geospatial Intelligence</span>
-      </div>
-
+    <div className="app-container" style={{ paddingTop: 56 }}>
       {/* Map */}
-      <div className="map-wrapper">
+      <div className="map-wrapper" style={{ top: 56 }}>
         <MapView
           cells={filteredCells}
           selectedCell={selectedCell}
@@ -134,7 +135,7 @@ function App() {
       {/* Stats Panel - top left */}
       {stats && <StatsPanel stats={stats} />}
 
-      {/* Filter Panel - top right (shifts down when sidebar is closed) */}
+      {/* Filter Panel */}
       {!selectedCell && (
         <FilterPanel
           activeArchetypes={activeArchetypes}
@@ -146,15 +147,15 @@ function App() {
         />
       )}
 
-      {/* Sidebar - selected cell detail */}
+      {/* Sidebar */}
       {selectedCell && (
         <Sidebar cell={selectedCell} onClose={handleClosePanel} />
       )}
 
-      {/* Legend - bottom left */}
+      {/* Legend */}
       <Legend colorMode={colorMode} />
 
-      {/* Data Source Badge - bottom right */}
+      {/* Data Source Badge */}
       <DataSourceBadge gridSize="5km × 5km" cellCount={cells.length} />
 
       {/* Prompt */}
@@ -164,6 +165,19 @@ function App() {
         </div>
       )}
     </div>
+  )
+}
+
+/* ── App Root ── */
+function App() {
+  return (
+    <>
+      <NavBar />
+      <Routes>
+        <Route path="/" element={<MapPage />} />
+        <Route path="/stats" element={<StatsPage />} />
+      </Routes>
+    </>
   )
 }
 

@@ -56,7 +56,6 @@ html, body, #root {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   background: var(--bg-primary);
   color: var(--text-primary);
-  overflow: hidden;
 }
 
 /* ── Scrollbar ── */

@@ -206,6 +206,7 @@ def compute_confidence(row: pd.Series) -> str:
         return "low"
 
 
+
 def compute_informal_probability(df):
     # Base from anomaly score
     df["informal_probability"] = df["anomaly_score"] * 0.7
