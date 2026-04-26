@@ -10,10 +10,7 @@ import Legend from './components/Legend'
 import DataSourceBadge from './components/DataSourceBadge'
 import StatsPage from './components/StatsPage'
 
-
-const API_BASE = import.meta.env.VITE_API_URL ;
-console.log(API_BASE);
-
+const API_BASE = import.meta.env.VITE_API_URL
 
 /* ── Navigation Bar ── */
 function NavBar() {
