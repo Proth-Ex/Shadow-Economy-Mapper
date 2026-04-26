@@ -36,7 +36,8 @@ function SignalBar({ name, value, color }) {
 export default function Sidebar({ cell, onClose }) {
   if (!cell) return null
 
-  const scoreColor = getScoreColor(cell.shadow_score)
+  const informalProbability = cell.informal_probability ?? cell.shadow_score
+  const scoreColor = getScoreColor(informalProbability)
 
   return (
     <div className="sidebar glass-panel animate-slide-in">
@@ -59,12 +60,12 @@ export default function Sidebar({ cell, onClose }) {
         )}
       </div>
 
-      {/* Shadow Score Gauge */}
+      {/* Informal Probability Gauge */}
       <div className="score-gauge">
         <div className="score-gauge-value" style={{ color: scoreColor }}>
-          {(cell.shadow_score * 100).toFixed(1)}
+          {(informalProbability * 100).toFixed(1)}
         </div>
-        <div className="score-gauge-label">Shadow Economy Index</div>
+        <div className="score-gauge-label">Informal Probability</div>
         <div style={{
           width: '100%',
           height: 4,
@@ -74,7 +75,7 @@ export default function Sidebar({ cell, onClose }) {
           overflow: 'hidden',
         }}>
           <div style={{
-            width: `${cell.shadow_score * 100}%`,
+            width: `${informalProbability * 100}%`,
             height: '100%',
             background: `linear-gradient(90deg, var(--score-low), ${scoreColor})`,
             borderRadius: 2,
@@ -83,8 +84,8 @@ export default function Sidebar({ cell, onClose }) {
         </div>
       </div>
 
-      {/* Informal Probability */}
-      {cell.informal_probability !== undefined && (
+      {/* Shadow Score */}
+      {cell.shadow_score !== undefined && (
         <div style={{
           textAlign: 'center',
           marginBottom: 16,
@@ -92,14 +93,14 @@ export default function Sidebar({ cell, onClose }) {
           borderBottom: '1px solid var(--border-glass)',
         }}>
           <span style={{ fontSize: 13, color: 'var(--text-secondary)' }}>
-            Informal Probability:{' '}
+            Shadow Economy Index:{' '}
           </span>
           <span style={{
             fontSize: 15,
             fontWeight: 700,
-            color: cell.informal_probability > 0.6 ? 'var(--color-shadow)' : 'var(--text-primary)',
+            color: cell.shadow_score > 0.6 ? 'var(--color-shadow)' : 'var(--text-primary)',
           }}>
-            {(cell.informal_probability * 100).toFixed(1)}%
+            {(cell.shadow_score * 100).toFixed(1)}
           </span>
         </div>
       )}
