@@ -24,6 +24,9 @@
   gap: 12px;
   padding: 10px 24px;
   animation: fadeIn 0.6s ease;
+  /* Ensure header doesn't overlap side panels */
+  max-width: calc(100vw - 520px);
+  white-space: nowrap;
 }
 
 .app-header h1 {
@@ -54,14 +57,15 @@
   white-space: nowrap;
 }
 
-/* ── Stats Panel (bottom-left, above legend) ── */
+/* ── Stats Panel (top-left, below header) ── */
 .stats-panel {
   position: absolute;
-  bottom: 110px;
+  top: 72px;           /* sits just below header */
   left: 16px;
   z-index: 1000;
   padding: var(--panel-padding);
   min-width: 200px;
+  max-width: 220px;
   animation: fadeIn 0.5s ease 0.1s both;
 }
 
@@ -83,8 +87,8 @@
   line-height: 1;
 }
 
-.stat-value.cyan { color: var(--accent-cyan); }
-.stat-value.red { color: var(--color-shadow); }
+.stat-value.cyan  { color: var(--accent-cyan); }
+.stat-value.red   { color: var(--color-shadow); }
 .stat-value.amber { color: var(--color-transit); }
 .stat-value.green { color: var(--color-residential); }
 
@@ -96,14 +100,15 @@
   font-weight: 500;
 }
 
-/* ── Filter Panel (top-right) ── */
+/* ── Filter Panel (top-right, below header) ── */
 .filter-panel {
   position: absolute;
-  top: 16px;
+  top: 72px;           /* aligns with stats panel vertically */
   right: 16px;
   z-index: 1000;
   padding: var(--panel-padding);
   min-width: 220px;
+  max-width: 260px;
   animation: fadeIn 0.5s ease 0.2s both;
 }
 
@@ -118,6 +123,10 @@
 
 .filter-group {
   margin-bottom: 14px;
+}
+
+.filter-group:last-child {
+  margin-bottom: 0;
 }
 
 .filter-group-label {
@@ -167,15 +176,14 @@
   border-radius: 50%;
 }
 
-/* ── Sidebar (right) ── */
+/* ── Sidebar (right, below filter panel) ── */
 .sidebar {
   position: absolute;
-  top: 50%;
+  top: 72px;
   right: 16px;
-  transform: translateY(-50%);
-  z-index: 1000;
-  width: 320px;
-  max-height: calc(100vh - 160px);
+  z-index: 1100;         /* above filter panel so it covers it when open */
+  width: 300px;
+  max-height: calc(100vh - 100px);
   overflow-y: auto;
   padding: 20px;
   animation: slideInRight 0.4s ease;
@@ -404,7 +412,7 @@
   font-weight: 500;
 }
 
-/* ── No selection prompt ── */
+/* ── No selection prompt (bottom-center) ── */
 .no-selection {
   position: absolute;
   bottom: 24px;
@@ -416,16 +424,18 @@
   color: var(--text-muted);
   animation: fadeIn 0.5s ease 0.5s both;
   pointer-events: none;
+  white-space: nowrap;
 }
 
-/* ── Data Source Badge (left, above stats panel) ── */
+/* ── Data Source Badge (bottom-left, above legend) ── */
 .data-source-badge {
   position: absolute;
-  bottom: 340px;
+  bottom: 200px;        /* sits above legend which is at bottom: 24px */
   left: 16px;
   z-index: 900;
   padding: 12px 16px;
   min-width: 180px;
+  max-width: 220px;
   animation: fadeIn 0.5s ease 0.4s both;
 }
 
@@ -508,5 +518,16 @@
 
 @keyframes pulse-status {
   0%, 100% { opacity: 1; box-shadow: 0 0 4px rgba(16, 185, 129, 0.4); }
-  50% { opacity: 0.6; box-shadow: 0 0 8px rgba(16, 185, 129, 0.8); }
+  50%       { opacity: 0.6; box-shadow: 0 0 8px rgba(16, 185, 129, 0.8); }
+}
+
+/* ── Animations ── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(20px); }
+  to   { opacity: 1; transform: translateX(0); }
 }
