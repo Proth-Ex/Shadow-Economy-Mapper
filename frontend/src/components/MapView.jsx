@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { MapContainer, TileLayer, Rectangle, useMap } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
+import HeatmapLayer from './HeatmapLayer'
 
 const ARCHETYPE_COLORS = {
   'Shadow Economy Zone': '#ff4444',
@@ -52,7 +53,7 @@ function getCellOpacity(cell) {
   return 0.25 + (cell.shadow_score || 0) * 0.3
 }
 
-function GridCell({ cell, isSelected, onClick, colorMode }) {
+function GridCell({ cell, isSelected, onClick, colorMode, heatmapActive }) {
   const color = getCellColor(cell, colorMode)
   const opacity = getCellOpacity(cell)
   const bounds = [
@@ -60,16 +61,27 @@ function GridCell({ cell, isSelected, onClick, colorMode }) {
     [cell.bounds.north, cell.bounds.east],
   ]
 
-  return (
-    <Rectangle
-      bounds={bounds}
-      pathOptions={{
+  // When heatmap is active, grid cells become invisible click targets
+  const gridStyle = heatmapActive
+    ? {
+        color: isSelected ? '#00d4ff' : 'transparent',
+        weight: isSelected ? 2 : 0,
+        fillColor: 'transparent',
+        fillOpacity: isSelected ? 0.15 : 0.01,
+        opacity: isSelected ? 1 : 0,
+      }
+    : {
         color: isSelected ? '#00d4ff' : color,
         weight: isSelected ? 2 : 0.5,
         fillColor: color,
         fillOpacity: isSelected ? 0.85 : opacity,
         opacity: isSelected ? 1 : 0.6,
-      }}
+      }
+
+  return (
+    <Rectangle
+      bounds={bounds}
+      pathOptions={gridStyle}
       eventHandlers={{
         click: () => onClick(cell),
       }}
@@ -97,7 +109,7 @@ function FitBounds({ cells }) {
   return null
 }
 
-export default function MapView({ cells, selectedCell, onCellClick, colorMode }) {
+export default function MapView({ cells, selectedCell, onCellClick, colorMode, showHeatmap, heatmapField }) {
   return (
     <MapContainer
       center={[15.35, 74.05]}
@@ -111,6 +123,9 @@ export default function MapView({ cells, selectedCell, onCellClick, colorMode })
         maxZoom={18}
       />
       <FitBounds cells={cells} />
+      {showHeatmap && (
+        <HeatmapLayer cells={cells} field={heatmapField || 'shadow_score'} />
+      )}
       {cells.map(cell => (
         <GridCell
           key={cell.cell_id}
@@ -118,6 +133,7 @@ export default function MapView({ cells, selectedCell, onCellClick, colorMode })
           isSelected={selectedCell?.cell_id === cell.cell_id}
           onClick={onCellClick}
           colorMode={colorMode}
+          heatmapActive={showHeatmap}
         />
       ))}
     </MapContainer>

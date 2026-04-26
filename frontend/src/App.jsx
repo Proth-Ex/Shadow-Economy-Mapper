@@ -48,6 +48,8 @@ function MapPage() {
   ]))
   const [activeConfidence, setActiveConfidence] = useState(new Set(['high', 'medium', 'low']))
   const [colorMode, setColorMode] = useState('score')
+  const [showHeatmap, setShowHeatmap] = useState(false)
+  const [heatmapField, setHeatmapField] = useState('shadow_score')
 
   useEffect(() => {
     async function fetchData() {
@@ -130,6 +132,8 @@ function MapPage() {
           selectedCell={selectedCell}
           onCellClick={handleCellClick}
           colorMode={colorMode}
+          showHeatmap={showHeatmap}
+          heatmapField={heatmapField}
         />
       </div>
 
@@ -145,6 +149,10 @@ function MapPage() {
           onToggleConfidence={toggleConfidence}
           colorMode={colorMode}
           onColorModeChange={setColorMode}
+          showHeatmap={showHeatmap}
+          onToggleHeatmap={() => setShowHeatmap(prev => !prev)}
+          heatmapField={heatmapField}
+          onHeatmapFieldChange={setHeatmapField}
         />
       )}
 

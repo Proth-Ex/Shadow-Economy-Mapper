@@ -12,6 +12,15 @@ const CONFIDENCE_LEVELS = [
   { name: 'low', label: 'Low' },
 ]
 
+const HEATMAP_FIELDS = [
+  { name: 'shadow_score', label: 'Shadow Score' },
+  { name: 'informal_probability', label: 'Informal Prob.' },
+  { name: 'light_score', label: 'VIIRS Light' },
+  { name: 'population_density', label: 'Population' },
+  { name: 'mobility_score', label: 'Mobility' },
+  { name: 'registered_density', label: 'Business Density' },
+]
+
 export default function FilterPanel({
   activeArchetypes,
   activeConfidence,
@@ -19,10 +28,40 @@ export default function FilterPanel({
   onToggleConfidence,
   colorMode,
   onColorModeChange,
+  showHeatmap,
+  onToggleHeatmap,
+  heatmapField,
+  onHeatmapFieldChange,
 }) {
   return (
     <div className="filter-panel glass-panel">
       <div className="filter-title">Filters</div>
+
+      {/* Heatmap Toggle */}
+      <div className="filter-group">
+        <div className="filter-group-label">Heatmap</div>
+        <div className="filter-chips">
+          <button
+            className={`filter-chip heatmap-toggle ${showHeatmap ? 'active heatmap-active' : ''}`}
+            onClick={onToggleHeatmap}
+          >
+            {showHeatmap ? '🔥 Heatmap ON' : '🔥 Heatmap OFF'}
+          </button>
+        </div>
+        {showHeatmap && (
+          <div className="filter-chips" style={{ marginTop: 6 }}>
+            {HEATMAP_FIELDS.map(f => (
+              <button
+                key={f.name}
+                className={`filter-chip ${heatmapField === f.name ? 'active' : ''}`}
+                onClick={() => onHeatmapFieldChange(f.name)}
+              >
+                {f.label}
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
 
       {/* Color Mode Toggle */}
       <div className="filter-group">
@@ -78,3 +117,4 @@ export default function FilterPanel({
     </div>
   )
 }
+
